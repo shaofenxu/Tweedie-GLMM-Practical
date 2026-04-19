@@ -1,0 +1,4001 @@
+"Sex","age_group","SIMD16_RPa","drating"
+"Male","25-34","2",0
+"Female","55-64","4",10.5
+"Male","65-74","2",15.1
+"Female","65-74","4",0
+"Female","75+","1 (least deprived)",0
+"Female","65-74","1 (least deprived)",4.5
+"Female","75+","2",3
+"Female","25-34","3",0.6
+"Female","16-24","5 (most deprived)",1
+"Female","65-74","3",3.7
+"Male","35-44","2",6.3
+"Female","55-64","5 (most deprived)",18
+"Female","25-34","1 (least deprived)",0.2
+"Male","75+","2",0
+"Female","55-64","2",3.1
+"Female","16-24","1 (least deprived)",0.6
+"Female","55-64","5 (most deprived)",1.5
+"Female","16-24","1 (least deprived)",4.5
+"Female","35-44","4",0.1
+"Female","55-64","3",0.2
+"Female","25-34","3",1.6
+"Female","55-64","2",0
+"Male","25-34","1 (least deprived)",20.6
+"Male","55-64","3",38
+"Female","45-54","1 (least deprived)",21
+"Female","45-54","3",0.6
+"Male","35-44","4",0
+"Male","25-34","2",0.1
+"Male","65-74","3",1.5
+"Female","75+","3",2.3
+"Male","75+","3",0
+"Female","55-64","5 (most deprived)",0
+"Male","65-74","2",0.8
+"Female","45-54","1 (least deprived)",3.9
+"Male","75+","4",0
+"Male","35-44","4",0
+"Female","45-54","2",3.6
+"Female","55-64","5 (most deprived)",0
+"Female","25-34","3",3
+"Male","55-64","3",0.9
+"Female","35-44","5 (most deprived)",42
+"Female","16-24","2",9.7
+"Female","75+","2",0.8
+"Male","65-74","2",20.4
+"Female","65-74","2",0.4
+"Female","55-64","1 (least deprived)",39.1
+"Female","55-64","3",0
+"Male","25-34","5 (most deprived)",30.5
+"Female","35-44","1 (least deprived)",7.6
+"Male","55-64","5 (most deprived)",3.8
+"Male","35-44","2",0
+"Female","75+","2",8.6
+"Male","35-44","1 (least deprived)",0
+"Female","16-24","4",3.4
+"Male","65-74","4",19.6
+"Female","65-74","2",15.5
+"Male","55-64","4",1
+"Female","65-74","3",0.1
+"Male","45-54","3",61.4
+"Female","55-64","3",5.3
+"Female","65-74","2",11.1
+"Male","45-54","3",35
+"Female","75+","5 (most deprived)",0
+"Female","65-74","5 (most deprived)",1.5
+"Female","55-64","3",14
+"Female","65-74","1 (least deprived)",0.2
+"Male","25-34","5 (most deprived)",0.3
+"Male","45-54","3",29.9
+"Female","25-34","4",0.6
+"Male","45-54","4",23.5
+"Male","25-34","5 (most deprived)",21
+"Female","25-34","5 (most deprived)",7.8
+"Male","25-34","1 (least deprived)",21.1
+"Female","75+","4",0.1
+"Female","25-34","5 (most deprived)",0
+"Female","25-34","3",0
+"Female","65-74","2",0
+"Male","45-54","3",15
+"Female","55-64","1 (least deprived)",6.7
+"Male","16-24","4",6.9
+"Male","75+","2",24.1
+"Male","25-34","5 (most deprived)",2.1
+"Male","75+","5 (most deprived)",0
+"Male","45-54","5 (most deprived)",54
+"Male","45-54","5 (most deprived)",0
+"Female","55-64","5 (most deprived)",0.2
+"Female","65-74","1 (least deprived)",12
+"Female","45-54","2",20
+"Female","55-64","4",0
+"Female","55-64","3",3
+"Male","75+","1 (least deprived)",3.1
+"Female","75+","1 (least deprived)",0.4
+"Female","35-44","1 (least deprived)",0.9
+"Female","65-74","3",0
+"Female","55-64","5 (most deprived)",0
+"Female","45-54","2",44.5
+"Male","35-44","2",0
+"Female","35-44","4",0
+"Female","75+","1 (least deprived)",34
+"Male","55-64","5 (most deprived)",9
+"Male","65-74","2",0.1
+"Female","75+","3",1.5
+"Male","25-34","5 (most deprived)",2.3
+"Male","35-44","2",28.2
+"Female","25-34","1 (least deprived)",0.9
+"Female","35-44","4",0.6
+"Male","25-34","2",11.2
+"Male","35-44","4",2.2
+"Male","16-24","2",4.1
+"Female","35-44","3",2
+"Male","65-74","1 (least deprived)",13
+"Female","55-64","1 (least deprived)",0.1
+"Female","55-64","3",10.5
+"Female","35-44","3",6.3
+"Male","55-64","2",27
+"Male","65-74","2",50.9
+"Female","35-44","2",5.2
+"Male","45-54","1 (least deprived)",17.6
+"Female","45-54","2",0
+"Male","45-54","5 (most deprived)",1
+"Male","35-44","5 (most deprived)",20.2
+"Male","55-64","4",14
+"Female","55-64","5 (most deprived)",0.1
+"Female","65-74","2",0.7
+"Female","35-44","2",9.1
+"Male","55-64","3",45.4
+"Male","35-44","3",11.2
+"Female","65-74","3",8.8
+"Female","45-54","1 (least deprived)",32.2
+"Male","55-64","2",105
+"Female","16-24","5 (most deprived)",9.8
+"Male","25-34","3",52.2
+"Female","55-64","4",0
+"Male","45-54","4",22.6
+"Male","25-34","2",4.7
+"Female","35-44","2",0.9
+"Female","45-54","4",12
+"Male","45-54","4",0
+"Male","25-34","3",18
+"Female","25-34","2",5.3
+"Female","55-64","1 (least deprived)",0.3
+"Female","35-44","5 (most deprived)",0.2
+"Female","35-44","3",0.3
+"Female","65-74","1 (least deprived)",0
+"Female","25-34","2",6.6
+"Female","45-54","5 (most deprived)",1.4
+"Male","25-34","1 (least deprived)",0
+"Male","55-64","1 (least deprived)",24.1
+"Male","55-64","1 (least deprived)",3.3
+"Female","75+","3",0
+"Male","16-24","4",2.3
+"Male","55-64","4",0
+"Female","55-64","5 (most deprived)",0
+"Female","75+","1 (least deprived)",0
+"Female","45-54","4",0.4
+"Male","25-34","4",1.3
+"Female","65-74","3",0
+"Female","55-64","1 (least deprived)",7.2
+"Male","55-64","1 (least deprived)",175
+"Female","55-64","4",0
+"Female","25-34","1 (least deprived)",0.2
+"Female","75+","1 (least deprived)",0.8
+"Male","25-34","1 (least deprived)",36.8
+"Female","55-64","2",34.1
+"Male","35-44","1 (least deprived)",51.5
+"Male","25-34","2",2.3
+"Male","25-34","2",32.7
+"Male","35-44","4",1.3
+"Female","35-44","5 (most deprived)",6.8
+"Female","65-74","2",0
+"Male","55-64","5 (most deprived)",0.1
+"Female","75+","1 (least deprived)",0
+"Female","25-34","5 (most deprived)",1.1
+"Female","55-64","4",0
+"Male","25-34","4",0.1
+"Male","55-64","5 (most deprived)",6
+"Male","65-74","5 (most deprived)",32.2
+"Male","16-24","1 (least deprived)",27.3
+"Male","35-44","2",3.2
+"Male","35-44","4",9.3
+"Male","45-54","3",20.1
+"Female","65-74","4",0
+"Male","45-54","2",10.7
+"Male","25-34","2",0.1
+"Female","65-74","5 (most deprived)",0
+"Female","65-74","5 (most deprived)",13.2
+"Female","55-64","3",0.1
+"Female","55-64","4",2.2
+"Male","55-64","5 (most deprived)",144.5
+"Female","45-54","2",9.5
+"Male","35-44","3",0.4
+"Female","35-44","4",5.5
+"Male","35-44","4",0
+"Female","35-44","3",0
+"Female","45-54","4",1.8
+"Male","25-34","5 (most deprived)",17.7
+"Male","35-44","3",8.5
+"Female","75+","1 (least deprived)",23.5
+"Male","65-74","2",21.7
+"Male","75+","3",0
+"Female","45-54","2",24
+"Female","55-64","2",1.1
+"Male","25-34","5 (most deprived)",21
+"Male","65-74","1 (least deprived)",2.2
+"Female","65-74","2",1.7
+"Male","75+","3",0.2
+"Female","75+","2",0
+"Female","55-64","5 (most deprived)",3.8
+"Female","35-44","3",9
+"Female","45-54","4",10.9
+"Male","55-64","3",12.3
+"Female","65-74","3",4.5
+"Male","45-54","2",21.4
+"Male","55-64","2",0
+"Male","45-54","4",23.5
+"Female","75+","1 (least deprived)",16
+"Male","55-64","1 (least deprived)",25.8
+"Female","55-64","5 (most deprived)",24
+"Female","25-34","3",21.2
+"Male","35-44","4",7.1
+"Male","35-44","5 (most deprived)",0
+"Female","35-44","1 (least deprived)",23.7
+"Female","75+","4",0.9
+"Female","75+","5 (most deprived)",0
+"Female","75+","4",0
+"Female","55-64","2",0.1
+"Male","55-64","5 (most deprived)",28
+"Male","45-54","3",2.3
+"Female","45-54","5 (most deprived)",2.1
+"Male","55-64","5 (most deprived)",4.5
+"Female","55-64","5 (most deprived)",0
+"Male","35-44","2",9
+"Female","55-64","5 (most deprived)",84.6
+"Female","25-34","2",4.6
+"Male","16-24","5 (most deprived)",5
+"Female","55-64","2",47
+"Female","65-74","5 (most deprived)",0
+"Female","25-34","4",4.2
+"Female","55-64","2",0
+"Male","35-44","4",0
+"Female","65-74","3",0.7
+"Female","35-44","3",2.8
+"Male","65-74","3",12
+"Female","35-44","2",0.4
+"Male","35-44","5 (most deprived)",4
+"Female","25-34","5 (most deprived)",0.3
+"Female","55-64","4",0
+"Female","45-54","5 (most deprived)",17.2
+"Male","35-44","1 (least deprived)",31.9
+"Male","55-64","5 (most deprived)",0
+"Female","75+","2",0
+"Female","75+","4",0
+"Female","35-44","3",13.3
+"Female","75+","5 (most deprived)",6.8
+"Male","25-34","5 (most deprived)",2.3
+"Female","16-24","3",0
+"Female","55-64","1 (least deprived)",2.2
+"Male","35-44","3",1.1
+"Female","65-74","1 (least deprived)",17.5
+"Male","65-74","2",11.2
+"Male","45-54","4",8.2
+"Male","55-64","2",35.2
+"Male","75+","1 (least deprived)",0.9
+"Male","45-54","3",2.2
+"Female","55-64","2",2.7
+"Female","65-74","5 (most deprived)",0
+"Male","45-54","4",0
+"Female","35-44","3",4.3
+"Female","25-34","5 (most deprived)",0
+"Male","35-44","3",15
+"Male","75+","4",12.1
+"Female","25-34","5 (most deprived)",6.3
+"Male","45-54","4",0.2
+"Male","25-34","2",2.3
+"Female","35-44","4",2.4
+"Female","55-64","5 (most deprived)",4.6
+"Female","75+","1 (least deprived)",0.6
+"Female","75+","2",0.1
+"Female","55-64","5 (most deprived)",2.3
+"Male","55-64","4",0.3
+"Male","55-64","1 (least deprived)",0.2
+"Female","45-54","2",0.2
+"Female","25-34","3",0
+"Female","55-64","4",0
+"Female","55-64","3",6
+"Female","16-24","2",6.9
+"Female","55-64","4",11.3
+"Female","45-54","4",5.1
+"Female","75+","5 (most deprived)",0
+"Female","35-44","5 (most deprived)",5.2
+"Female","16-24","5 (most deprived)",80.9
+"Female","35-44","4",35.5
+"Male","35-44","5 (most deprived)",6.2
+"Female","75+","1 (least deprived)",0
+"Female","16-24","5 (most deprived)",21
+"Female","75+","1 (least deprived)",34
+"Male","35-44","2",0
+"Male","65-74","2",3.8
+"Female","45-54","2",10.5
+"Female","55-64","2",9
+"Male","25-34","3",17.8
+"Female","25-34","5 (most deprived)",1.5
+"Female","65-74","4",4.9
+"Female","65-74","2",1.5
+"Male","55-64","4",7.5
+"Female","55-64","1 (least deprived)",4.5
+"Female","75+","2",4.5
+"Female","35-44","4",7.5
+"Female","65-74","2",3.2
+"Female","35-44","1 (least deprived)",1.5
+"Male","75+","5 (most deprived)",31.5
+"Male","55-64","3",0
+"Male","55-64","2",1.5
+"Female","45-54","4",0.5
+"Female","35-44","5 (most deprived)",3.8
+"Female","55-64","1 (least deprived)",4.5
+"Female","65-74","5 (most deprived)",17
+"Female","45-54","1 (least deprived)",14
+"Male","35-44","3",4.1
+"Male","45-54","4",36
+"Male","55-64","1 (least deprived)",13.7
+"Male","55-64","5 (most deprived)",0.4
+"Male","55-64","3",4.6
+"Female","65-74","3",0
+"Male","16-24","1 (least deprived)",9
+"Male","16-24","2",4.1
+"Female","65-74","3",13.5
+"Female","55-64","3",14
+"Female","35-44","1 (least deprived)",0
+"Male","55-64","1 (least deprived)",21
+"Female","45-54","2",1.2
+"Female","45-54","5 (most deprived)",3
+"Female","55-64","3",2.2
+"Male","35-44","1 (least deprived)",27.5
+"Female","75+","4",0.1
+"Female","35-44","2",0.8
+"Male","35-44","4",6.1
+"Female","65-74","4",6.4
+"Male","45-54","5 (most deprived)",18.5
+"Female","65-74","2",0
+"Male","25-34","1 (least deprived)",19.7
+"Female","75+","4",0
+"Male","55-64","3",0.3
+"Female","16-24","1 (least deprived)",13.8
+"Male","16-24","4",6.9
+"Male","35-44","1 (least deprived)",27.5
+"Female","45-54","3",4.6
+"Female","35-44","5 (most deprived)",0.3
+"Female","45-54","4",0.1
+"Female","45-54","3",33.6
+"Male","16-24","2",21
+"Female","35-44","4",0
+"Female","65-74","1 (least deprived)",0
+"Male","65-74","4",45
+"Female","55-64","4",14
+"Female","75+","5 (most deprived)",0.1
+"Female","25-34","2",1.2
+"Male","55-64","5 (most deprived)",0.2
+"Male","55-64","1 (least deprived)",6.8
+"Male","45-54","3",0
+"Female","75+","1 (least deprived)",0.1
+"Male","35-44","1 (least deprived)",13.2
+"Female","16-24","1 (least deprived)",4.5
+"Male","65-74","4",0
+"Male","35-44","4",0
+"Female","25-34","4",14.3
+"Female","25-34","4",6.6
+"Female","45-54","5 (most deprived)",0.6
+"Female","65-74","4",0
+"Female","55-64","3",0
+"Female","16-24","4",16.5
+"Female","75+","2",1
+"Female","55-64","1 (least deprived)",6
+"Female","45-54","2",0
+"Male","75+","2",11
+"Female","75+","1 (least deprived)",0.4
+"Male","55-64","3",0.1
+"Female","75+","3",0
+"Female","35-44","1 (least deprived)",1.8
+"Female","35-44","2",8.3
+"Female","16-24","3",0
+"Female","55-64","2",3
+"Male","16-24","3",23.7
+"Female","55-64","3",30.2
+"Female","16-24","2",6.1
+"Male","35-44","5 (most deprived)",1.5
+"Male","25-34","3",51
+"Female","65-74","2",0
+"Female","55-64","4",5.3
+"Female","35-44","3",12
+"Male","65-74","5 (most deprived)",0
+"Female","75+","2",0
+"Male","35-44","5 (most deprived)",0.2
+"Female","25-34","3",5.6
+"Female","55-64","3",6.4
+"Female","25-34","1 (least deprived)",2.4
+"Female","45-54","2",0
+"Male","35-44","3",7.2
+"Male","65-74","1 (least deprived)",27.5
+"Female","65-74","1 (least deprived)",7
+"Male","25-34","5 (most deprived)",22.5
+"Male","45-54","2",13.5
+"Male","35-44","3",9.5
+"Male","25-34","1 (least deprived)",1.8
+"Female","65-74","3",0.8
+"Female","45-54","1 (least deprived)",2.3
+"Female","55-64","5 (most deprived)",0
+"Male","55-64","5 (most deprived)",144.5
+"Male","45-54","4",0
+"Female","25-34","1 (least deprived)",2.2
+"Female","45-54","4",0.1
+"Female","55-64","4",0
+"Female","55-64","3",10.5
+"Male","55-64","2",6.1
+"Male","45-54","2",0
+"Male","75+","3",11.6
+"Female","35-44","3",3.4
+"Male","25-34","3",8.4
+"Female","25-34","5 (most deprived)",1.1
+"Male","35-44","5 (most deprived)",7.2
+"Female","55-64","3",22.5
+"Male","65-74","1 (least deprived)",8.7
+"Male","45-54","2",12.3
+"Male","55-64","2",15.8
+"Female","25-34","4",0
+"Male","45-54","1 (least deprived)",31.4
+"Male","75+","5 (most deprived)",0
+"Male","25-34","5 (most deprived)",15.6
+"Female","25-34","1 (least deprived)",1.3
+"Female","55-64","3",0
+"Female","35-44","3",7.5
+"Male","65-74","1 (least deprived)",29.8
+"Female","35-44","5 (most deprived)",7.5
+"Female","65-74","3",43.5
+"Female","16-24","5 (most deprived)",21
+"Female","16-24","1 (least deprived)",0
+"Male","65-74","3",0
+"Female","25-34","3",2.2
+"Female","25-34","1 (least deprived)",10.5
+"Female","65-74","2",1.6
+"Female","65-74","4",0.4
+"Female","55-64","5 (most deprived)",0.1
+"Female","75+","2",5.4
+"Female","45-54","4",0
+"Female","45-54","4",3.8
+"Female","65-74","4",0
+"Female","45-54","1 (least deprived)",13.6
+"Female","65-74","4",1
+"Male","75+","1 (least deprived)",16.6
+"Male","25-34","1 (least deprived)",0.9
+"Female","75+","3",0.1
+"Male","35-44","2",19.5
+"Male","45-54","3",6.3
+"Female","45-54","1 (least deprived)",47.8
+"Male","35-44","5 (most deprived)",23.2
+"Male","35-44","4",11.5
+"Female","65-74","1 (least deprived)",15.9
+"Male","65-74","2",3.8
+"Female","65-74","4",4.3
+"Female","75+","5 (most deprived)",0
+"Female","65-74","1 (least deprived)",0.2
+"Female","16-24","4",0
+"Female","75+","5 (most deprived)",0
+"Male","75+","5 (most deprived)",44.2
+"Female","55-64","4",0
+"Female","65-74","3",2.2
+"Male","55-64","1 (least deprived)",2.8
+"Female","35-44","4",0
+"Male","75+","1 (least deprived)",14.8
+"Male","35-44","5 (most deprived)",6.7
+"Male","75+","1 (least deprived)",0
+"Female","65-74","3",31.8
+"Male","55-64","5 (most deprived)",0.4
+"Male","65-74","3",32.5
+"Male","35-44","2",2.2
+"Female","25-34","5 (most deprived)",0
+"Male","16-24","2",1
+"Female","75+","2",0.1
+"Male","65-74","2",0
+"Male","55-64","2",14
+"Male","55-64","1 (least deprived)",28.5
+"Female","25-34","3",0
+"Female","65-74","5 (most deprived)",0
+"Female","25-34","1 (least deprived)",0
+"Male","75+","1 (least deprived)",0
+"Male","55-64","4",0
+"Male","75+","4",0.4
+"Female","55-64","5 (most deprived)",0.1
+"Female","65-74","4",0
+"Female","45-54","3",10.6
+"Male","25-34","5 (most deprived)",21
+"Male","35-44","1 (least deprived)",42.3
+"Female","25-34","3",1.9
+"Male","45-54","4",0.7
+"Female","35-44","2",0.2
+"Female","55-64","5 (most deprived)",2.7
+"Female","16-24","5 (most deprived)",1
+"Female","75+","4",0
+"Male","16-24","2",19.2
+"Female","35-44","2",6.8
+"Male","75+","4",13.5
+"Male","25-34","3",0
+"Female","35-44","1 (least deprived)",0
+"Male","45-54","3",23.9
+"Male","65-74","4",12
+"Female","35-44","1 (least deprived)",0
+"Male","55-64","3",0
+"Male","55-64","4",6
+"Male","16-24","3",37.5
+"Male","55-64","4",0.1
+"Female","75+","2",0
+"Male","55-64","3",0.8
+"Female","45-54","4",40
+"Female","65-74","3",0.7
+"Male","35-44","1 (least deprived)",6
+"Female","25-34","5 (most deprived)",0
+"Male","65-74","4",89.2
+"Male","65-74","4",5.6
+"Female","75+","4",0.1
+"Female","45-54","1 (least deprived)",7.5
+"Male","45-54","3",20.1
+"Female","65-74","5 (most deprived)",0.1
+"Male","65-74","3",50.1
+"Female","35-44","1 (least deprived)",1.9
+"Female","75+","2",0.1
+"Female","25-34","5 (most deprived)",5.2
+"Male","55-64","5 (most deprived)",27.8
+"Female","65-74","3",0
+"Male","35-44","5 (most deprived)",2.9
+"Male","45-54","3",28
+"Female","65-74","3",0
+"Male","45-54","4",4.5
+"Male","55-64","2",102
+"Female","35-44","3",1
+"Male","16-24","3",2.4
+"Female","65-74","2",0
+"Female","65-74","2",9
+"Female","45-54","3",0
+"Male","75+","2",0
+"Female","35-44","2",0
+"Female","55-64","4",10.5
+"Male","25-34","3",3
+"Male","65-74","2",7.5
+"Female","75+","4",0
+"Male","55-64","2",6.5
+"Male","35-44","4",2
+"Male","55-64","4",87.8
+"Male","55-64","2",1.5
+"Male","75+","2",29.5
+"Female","45-54","1 (least deprived)",6.5
+"Female","55-64","1 (least deprived)",9.6
+"Female","25-34","5 (most deprived)",22.6
+"Male","25-34","4",7.2
+"Male","16-24","3",5.5
+"Female","55-64","3",12
+"Female","35-44","2",16.5
+"Female","75+","5 (most deprived)",0
+"Male","55-64","2",12.2
+"Female","55-64","2",2.6
+"Male","75+","1 (least deprived)",16.6
+"Female","16-24","4",0.6
+"Female","16-24","4",22.2
+"Female","55-64","3",0.2
+"Female","75+","2",0
+"Female","75+","1 (least deprived)",8.5
+"Female","65-74","3",21.2
+"Female","35-44","3",0
+"Female","55-64","1 (least deprived)",0.4
+"Male","65-74","1 (least deprived)",3.1
+"Female","55-64","4",10.5
+"Female","75+","5 (most deprived)",0
+"Male","65-74","5 (most deprived)",14.5
+"Male","75+","2",0
+"Male","65-74","3",7.1
+"Female","65-74","5 (most deprived)",0.8
+"Male","55-64","4",1.9
+"Male","55-64","5 (most deprived)",10.5
+"Male","25-34","3",51
+"Male","45-54","2",0
+"Female","55-64","2",7.1
+"Female","75+","2",5.4
+"Female","55-64","3",30
+"Female","35-44","3",0
+"Male","45-54","2",5
+"Male","35-44","5 (most deprived)",1.5
+"Female","45-54","3",13.5
+"Female","25-34","3",2.2
+"Female","45-54","2",0
+"Male","45-54","3",27
+"Female","45-54","3",15.8
+"Male","25-34","3",0.3
+"Female","65-74","4",8.2
+"Male","45-54","4",29.6
+"Male","65-74","2",0
+"Male","55-64","2",0
+"Male","55-64","1 (least deprived)",2
+"Female","65-74","1 (least deprived)",36.1
+"Female","45-54","4",26.4
+"Female","65-74","1 (least deprived)",3.4
+"Female","65-74","2",0.3
+"Male","55-64","5 (most deprived)",0
+"Male","55-64","5 (most deprived)",24
+"Female","35-44","3",0.1
+"Male","75+","1 (least deprived)",21
+"Male","25-34","1 (least deprived)",0.9
+"Female","75+","2",0
+"Female","65-74","4",8.2
+"Male","25-34","5 (most deprived)",2.2
+"Male","25-34","2",2.1
+"Female","16-24","5 (most deprived)",15.1
+"Female","65-74","5 (most deprived)",7.5
+"Female","16-24","1 (least deprived)",50.5
+"Female","55-64","1 (least deprived)",6.1
+"Female","65-74","5 (most deprived)",0
+"Female","65-74","1 (least deprived)",0.2
+"Male","65-74","2",15.1
+"Female","55-64","1 (least deprived)",0.8
+"Male","75+","3",10.4
+"Male","16-24","2",0
+"Male","65-74","2",50.2
+"Male","25-34","2",6
+"Male","55-64","1 (least deprived)",53
+"Female","55-64","2",3.8
+"Female","55-64","3",9.5
+"Male","65-74","1 (least deprived)",9
+"Female","55-64","1 (least deprived)",1.1
+"Female","45-54","1 (least deprived)",21.2
+"Male","65-74","5 (most deprived)",0
+"Female","16-24","2",0
+"Female","35-44","1 (least deprived)",6.1
+"Male","65-74","4",19.6
+"Female","45-54","3",0.6
+"Female","65-74","1 (least deprived)",0
+"Female","45-54","5 (most deprived)",3.9
+"Male","75+","4",0
+"Female","55-64","5 (most deprived)",14.1
+"Female","35-44","3",13.6
+"Female","45-54","5 (most deprived)",0.3
+"Male","75+","4",0.1
+"Male","35-44","5 (most deprived)",17.2
+"Male","75+","4",0.4
+"Female","55-64","2",3.1
+"Female","45-54","3",0.3
+"Female","16-24","4",16.5
+"Female","75+","3",0.1
+"Female","55-64","4",0
+"Male","65-74","5 (most deprived)",7.5
+"Male","35-44","3",1.1
+"Female","55-64","5 (most deprived)",0.1
+"Male","55-64","4",0
+"Female","45-54","2",9
+"Male","65-74","3",0
+"Female","25-34","3",0
+"Female","65-74","4",2.7
+"Male","35-44","2",0
+"Female","75+","3",0
+"Male","35-44","3",0.5
+"Female","25-34","5 (most deprived)",6.3
+"Male","45-54","2",11.7
+"Female","55-64","1 (least deprived)",7
+"Male","75+","5 (most deprived)",14.4
+"Female","55-64","2",12.8
+"Female","35-44","3",6.3
+"Female","65-74","2",0.2
+"Female","75+","5 (most deprived)",0
+"Female","45-54","5 (most deprived)",0
+"Female","55-64","3",1.6
+"Male","75+","3",0
+"Male","35-44","1 (least deprived)",0
+"Female","65-74","5 (most deprived)",7.5
+"Female","55-64","4",0
+"Male","55-64","4",28
+"Female","55-64","1 (least deprived)",10.9
+"Female","55-64","5 (most deprived)",2.5
+"Male","16-24","4",2.5
+"Female","45-54","4",0
+"Male","55-64","1 (least deprived)",22
+"Male","25-34","1 (least deprived)",19.7
+"Female","65-74","5 (most deprived)",0
+"Female","45-54","5 (most deprived)",2.1
+"Female","45-54","4",0.8
+"Female","65-74","4",0.1
+"Male","45-54","4",23.5
+"Male","65-74","4",89.2
+"Female","55-64","5 (most deprived)",0
+"Female","65-74","1 (least deprived)",23.1
+"Female","45-54","1 (least deprived)",46.5
+"Female","75+","5 (most deprived)",0
+"Female","55-64","5 (most deprived)",0
+"Male","16-24","3",0.8
+"Male","45-54","2",11.7
+"Female","55-64","3",2.1
+"Female","65-74","4",0.2
+"Male","55-64","1 (least deprived)",175
+"Male","55-64","5 (most deprived)",8.2
+"Male","55-64","1 (least deprived)",15
+"Male","75+","3",0.6
+"Female","35-44","1 (least deprived)",0.1
+"Female","45-54","5 (most deprived)",0.1
+"Female","35-44","1 (least deprived)",0.5
+"Male","75+","3",39.4
+"Male","55-64","4",2.2
+"Female","75+","2",10.6
+"Male","65-74","5 (most deprived)",44
+"Female","16-24","2",18.8
+"Female","45-54","2",3.7
+"Male","55-64","2",3.1
+"Female","55-64","4",4.5
+"Female","55-64","4",18
+"Male","16-24","3",0.8
+"Female","25-34","4",4.2
+"Female","16-24","1 (least deprived)",1.2
+"Female","45-54","1 (least deprived)",2.3
+"Male","25-34","3",1.1
+"Male","65-74","2",0
+"Female","65-74","2",0
+"Male","35-44","2",0
+"Male","65-74","4",1.3
+"Male","55-64","2",3
+"Female","45-54","3",0
+"Female","45-54","5 (most deprived)",0
+"Female","25-34","4",10.5
+"Male","25-34","4",9.4
+"Female","55-64","5 (most deprived)",4.2
+"Male","25-34","1 (least deprived)",0.3
+"Male","55-64","4",35.5
+"Male","55-64","1 (least deprived)",18
+"Female","75+","5 (most deprived)",0
+"Female","75+","2",0
+"Female","55-64","5 (most deprived)",1.1
+"Male","75+","4",49
+"Male","65-74","4",0
+"Female","25-34","3",1.8
+"Female","55-64","1 (least deprived)",2.1
+"Female","45-54","1 (least deprived)",6.8
+"Male","55-64","1 (least deprived)",18.8
+"Female","65-74","3",13.6
+"Female","35-44","5 (most deprived)",12.4
+"Female","75+","5 (most deprived)",0.4
+"Male","45-54","3",6.8
+"Male","55-64","1 (least deprived)",6.8
+"Female","16-24","1 (least deprived)",7.5
+"Male","25-34","2",10
+"Female","45-54","5 (most deprived)",0
+"Male","55-64","2",115.9
+"Female","16-24","5 (most deprived)",0.1
+"Male","55-64","4",0.8
+"Female","55-64","3",30.2
+"Female","16-24","2",0
+"Female","16-24","4",0.2
+"Female","35-44","4",19.5
+"Female","35-44","3",0.1
+"Female","75+","1 (least deprived)",0
+"Female","55-64","4",0
+"Female","35-44","3",15
+"Female","25-34","3",0
+"Female","16-24","5 (most deprived)",0.6
+"Male","25-34","2",7.5
+"Male","55-64","3",0
+"Female","55-64","5 (most deprived)",0
+"Female","35-44","4",7.5
+"Female","55-64","4",10.5
+"Male","65-74","2",4.5
+"Male","25-34","1 (least deprived)",7.1
+"Male","25-34","3",0
+"Male","75+","1 (least deprived)",28
+"Male","75+","5 (most deprived)",0
+"Male","16-24","3",0.8
+"Male","35-44","2",6.3
+"Female","45-54","1 (least deprived)",0.9
+"Female","45-54","2",5.2
+"Male","45-54","2",9.4
+"Female","65-74","1 (least deprived)",0
+"Male","16-24","2",52.3
+"Male","25-34","5 (most deprived)",0.1
+"Female","65-74","2",0
+"Male","55-64","4",0.1
+"Female","75+","1 (least deprived)",8.5
+"Female","35-44","1 (least deprived)",0.9
+"Female","35-44","5 (most deprived)",0
+"Male","55-64","5 (most deprived)",24
+"Female","16-24","2",6.9
+"Female","55-64","5 (most deprived)",0
+"Male","25-34","2",4.7
+"Male","55-64","1 (least deprived)",57.2
+"Male","45-54","3",16.2
+"Female","75+","1 (least deprived)",0
+"Female","35-44","5 (most deprived)",0
+"Male","45-54","5 (most deprived)",56.2
+"Female","75+","2",0
+"Male","35-44","2",6.5
+"Male","35-44","3",9.5
+"Male","35-44","4",43.9
+"Female","35-44","1 (least deprived)",16.5
+"Female","75+","2",31.6
+"Female","25-34","5 (most deprived)",0.7
+"Male","45-54","2",0
+"Male","25-34","5 (most deprived)",21
+"Male","35-44","4",6
+"Female","25-34","1 (least deprived)",0.3
+"Female","45-54","1 (least deprived)",18.5
+"Male","75+","3",0
+"Male","16-24","2",0
+"Male","55-64","5 (most deprived)",71.6
+"Male","55-64","4",0.2
+"Female","45-54","1 (least deprived)",7.6
+"Female","55-64","1 (least deprived)",15
+"Female","55-64","3",0
+"Female","55-64","1 (least deprived)",16.4
+"Male","35-44","3",0
+"Female","55-64","5 (most deprived)",0.1
+"Female","45-54","2",6
+"Female","55-64","3",0.1
+"Female","25-34","2",4.6
+"Male","45-54","3",9.8
+"Female","45-54","5 (most deprived)",16.2
+"Female","65-74","1 (least deprived)",18.8
+"Female","35-44","3",9.5
+"Male","75+","1 (least deprived)",0
+"Female","55-64","2",17
+"Female","65-74","2",0
+"Male","45-54","5 (most deprived)",0
+"Female","35-44","2",24
+"Male","55-64","2",36.8
+"Female","45-54","2",0
+"Male","55-64","3",0.2
+"Male","35-44","4",0.3
+"Male","65-74","2",9.8
+"Female","75+","5 (most deprived)",0
+"Female","75+","5 (most deprived)",0
+"Male","65-74","3",32.5
+"Male","25-34","4",18.9
+"Male","75+","4",15.5
+"Male","25-34","3",23.9
+"Female","45-54","1 (least deprived)",0
+"Female","75+","2",0
+"Female","55-64","4",0.3
+"Female","45-54","3",0.3
+"Male","55-64","2",55.7
+"Female","75+","1 (least deprived)",0
+"Female","35-44","3",9.5
+"Female","45-54","2",8.2
+"Female","16-24","1 (least deprived)",4.3
+"Male","65-74","3",0.5
+"Female","35-44","4",0.1
+"Male","75+","3",0
+"Female","45-54","3",9
+"Male","45-54","1 (least deprived)",0.6
+"Female","25-34","3",2.3
+"Male","75+","3",0
+"Female","45-54","1 (least deprived)",47.8
+"Female","45-54","5 (most deprived)",24.3
+"Female","25-34","4",1.5
+"Male","16-24","2",2.4
+"Male","75+","1 (least deprived)",28
+"Male","35-44","4",0
+"Female","55-64","4",0.8
+"Female","35-44","3",9.1
+"Male","45-54","2",4.8
+"Female","16-24","1 (least deprived)",18.5
+"Male","35-44","2",13.9
+"Male","35-44","4",18
+"Female","25-34","3",0.1
+"Male","65-74","3",21.8
+"Male","45-54","3",0
+"Female","35-44","5 (most deprived)",0.1
+"Male","65-74","5 (most deprived)",12
+"Female","55-64","3",15
+"Female","75+","4",0
+"Female","16-24","1 (least deprived)",1
+"Male","45-54","3",14
+"Female","16-24","1 (least deprived)",2
+"Female","25-34","2",10
+"Male","35-44","1 (least deprived)",8.7
+"Female","55-64","3",0
+"Female","65-74","3",8.8
+"Female","65-74","3",9
+"Male","16-24","2",1.1
+"Female","65-74","2",0.8
+"Male","35-44","3",5
+"Female","45-54","2",21.4
+"Male","65-74","4",3
+"Male","16-24","5 (most deprived)",4.1
+"Female","25-34","3",0
+"Female","45-54","3",0.5
+"Female","75+","5 (most deprived)",0
+"Male","65-74","2",17.7
+"Male","25-34","5 (most deprived)",15
+"Female","35-44","3",3
+"Female","35-44","2",13.7
+"Male","35-44","1 (least deprived)",8.7
+"Male","75+","5 (most deprived)",10.6
+"Male","55-64","4",21.3
+"Male","25-34","5 (most deprived)",4.3
+"Female","65-74","4",14.1
+"Female","55-64","3",2.6
+"Female","55-64","4",0.2
+"Female","35-44","3",0
+"Female","65-74","3",5.8
+"Male","75+","2",29.5
+"Female","35-44","4",4.7
+"Female","65-74","5 (most deprived)",9.3
+"Male","25-34","4",10.3
+"Female","55-64","5 (most deprived)",4.9
+"Female","35-44","4",1.2
+"Male","35-44","3",27.1
+"Male","55-64","2",12.3
+"Female","65-74","2",0
+"Female","45-54","4",0.4
+"Male","35-44","4",34.5
+"Female","45-54","4",3.8
+"Male","55-64","5 (most deprived)",6
+"Male","45-54","3",16.5
+"Male","55-64","4",29.2
+"Male","65-74","2",7.5
+"Female","16-24","2",20.4
+"Female","45-54","1 (least deprived)",2.3
+"Male","35-44","3",3.8
+"Male","35-44","4",6.8
+"Male","65-74","1 (least deprived)",25.5
+"Female","45-54","4",0.8
+"Female","35-44","5 (most deprived)",3.8
+"Male","65-74","2",0.9
+"Male","75+","2",0
+"Male","16-24","1 (least deprived)",20.2
+"Male","55-64","1 (least deprived)",13.7
+"Female","65-74","1 (least deprived)",7
+"Female","25-34","2",4.1
+"Female","25-34","1 (least deprived)",2.4
+"Female","35-44","5 (most deprived)",6
+"Female","55-64","3",2.2
+"Female","55-64","5 (most deprived)",0
+"Male","16-24","1 (least deprived)",0
+"Female","45-54","4",0
+"Male","25-34","3",26
+"Male","55-64","1 (least deprived)",56
+"Female","35-44","2",0.9
+"Male","35-44","4",0.5
+"Male","75+","4",0
+"Female","55-64","5 (most deprived)",1.1
+"Female","16-24","5 (most deprived)",9.9
+"Male","25-34","5 (most deprived)",2.3
+"Male","35-44","1 (least deprived)",0
+"Male","35-44","1 (least deprived)",31.9
+"Male","75+","5 (most deprived)",44.2
+"Female","75+","4",0.1
+"Female","55-64","5 (most deprived)",0.1
+"Male","35-44","4",2.2
+"Female","35-44","1 (least deprived)",1.5
+"Female","65-74","4",0
+"Female","25-34","4",3.4
+"Female","75+","5 (most deprived)",10.5
+"Male","16-24","4",97.5
+"Male","55-64","2",0
+"Female","55-64","3",5.3
+"Male","65-74","2",9.3
+"Female","65-74","5 (most deprived)",21
+"Female","75+","1 (least deprived)",0
+"Female","65-74","2",13.5
+"Male","65-74","3",0.4
+"Male","45-54","5 (most deprived)",18.5
+"Female","65-74","4",0
+"Female","65-74","2",6
+"Male","45-54","1 (least deprived)",8.9
+"Female","55-64","3",12
+"Male","16-24","2",20.7
+"Female","65-74","4",8
+"Female","45-54","1 (least deprived)",22.6
+"Male","55-64","4",4.5
+"Female","45-54","1 (least deprived)",31.5
+"Male","75+","3",28
+"Male","16-24","4",0.2
+"Male","55-64","3",0
+"Female","25-34","1 (least deprived)",5.2
+"Male","55-64","1 (least deprived)",0
+"Male","55-64","1 (least deprived)",18
+"Male","65-74","1 (least deprived)",3.6
+"Male","55-64","4",14
+"Female","45-54","5 (most deprived)",1.9
+"Female","45-54","2",8.6
+"Male","25-34","2",6
+"Female","45-54","5 (most deprived)",1.4
+"Male","35-44","3",2.8
+"Male","65-74","5 (most deprived)",3
+"Male","75+","2",3
+"Male","45-54","2",81.2
+"Female","25-34","1 (least deprived)",2.4
+"Female","45-54","3",31.5
+"Female","65-74","4",1
+"Male","55-64","4",14
+"Male","55-64","2",14.1
+"Male","55-64","5 (most deprived)",0
+"Female","16-24","5 (most deprived)",2.1
+"Female","35-44","4",0.6
+"Female","55-64","4",0.1
+"Female","65-74","2",6
+"Male","45-54","2",0
+"Female","25-34","5 (most deprived)",0.3
+"Female","55-64","4",10.5
+"Male","55-64","3",4.3
+"Male","25-34","1 (least deprived)",18.5
+"Male","35-44","4",6.1
+"Female","55-64","3",4.5
+"Female","75+","1 (least deprived)",0
+"Male","55-64","3",0
+"Female","65-74","1 (least deprived)",3.4
+"Female","65-74","5 (most deprived)",0
+"Female","45-54","5 (most deprived)",0
+"Male","25-34","4",10.1
+"Female","45-54","4",2.2
+"Female","45-54","1 (least deprived)",12.1
+"Male","75+","4",0
+"Female","45-54","3",15.8
+"Female","75+","4",6.5
+"Male","65-74","4",0
+"Male","35-44","4",0
+"Female","16-24","3",0
+"Female","35-44","1 (least deprived)",2.9
+"Male","25-34","1 (least deprived)",20.6
+"Male","16-24","3",37.4
+"Male","35-44","3",4.1
+"Female","25-34","4",2.5
+"Female","45-54","5 (most deprived)",1.6
+"Male","45-54","1 (least deprived)",1.9
+"Male","16-24","4",106.8
+"Male","35-44","3",2.1
+"Male","16-24","2",4.4
+"Male","16-24","3",3
+"Female","55-64","2",0.5
+"Female","75+","2",12.2
+"Female","65-74","3",24
+"Female","65-74","3",0
+"Male","55-64","1 (least deprived)",0
+"Female","55-64","1 (least deprived)",0
+"Female","35-44","3",11.2
+"Female","55-64","2",1.5
+"Female","75+","5 (most deprived)",1
+"Female","65-74","3",0
+"Male","65-74","4",0.5
+"Male","65-74","3",0.1
+"Female","55-64","2",9
+"Female","75+","2",3.4
+"Female","65-74","2",0
+"Male","45-54","2",42
+"Male","25-34","2",12.7
+"Female","55-64","2",9.2
+"Male","25-34","3",9
+"Female","55-64","2",9
+"Female","35-44","4",7.5
+"Female","16-24","2",10.5
+"Male","55-64","2",36.8
+"Female","45-54","5 (most deprived)",9.2
+"Male","45-54","2",18.8
+"Female","35-44","3",1.7
+"Female","45-54","1 (least deprived)",9.1
+"Male","35-44","1 (least deprived)",13.2
+"Male","35-44","4",1.8
+"Female","65-74","4",0
+"Female","45-54","2",20.6
+"Male","45-54","2",7.7
+"Female","75+","3",3.5
+"Male","35-44","3",8.5
+"Male","55-64","2",18.5
+"Female","45-54","1 (least deprived)",42
+"Male","55-64","2",50
+"Female","75+","1 (least deprived)",0
+"Female","75+","1 (least deprived)",3.1
+"Male","45-54","5 (most deprived)",42.2
+"Female","75+","3",0
+"Female","45-54","1 (least deprived)",14.5
+"Female","35-44","5 (most deprived)",0
+"Male","65-74","1 (least deprived)",13.2
+"Female","35-44","4",16.5
+"Male","35-44","1 (least deprived)",27.5
+"Male","55-64","5 (most deprived)",0
+"Male","75+","3",0.2
+"Female","65-74","3",7.4
+"Male","35-44","3",0
+"Male","16-24","3",37.5
+"Male","75+","1 (least deprived)",31.6
+"Male","65-74","1 (least deprived)",26.2
+"Female","35-44","3",2.4
+"Male","25-34","5 (most deprived)",30.5
+"Female","65-74","3",0
+"Male","65-74","1 (least deprived)",0.9
+"Male","45-54","4",29.6
+"Male","75+","4",0
+"Female","45-54","3",0.4
+"Female","65-74","2",0.4
+"Female","16-24","2",6.1
+"Male","25-34","2",1.7
+"Male","65-74","3",12
+"Female","65-74","1 (least deprived)",0.2
+"Male","55-64","2",0
+"Male","75+","1 (least deprived)",3
+"Female","55-64","3",10.5
+"Male","35-44","3",0.3
+"Male","35-44","4",43.9
+"Male","16-24","4",106.8
+"Female","65-74","4",2.7
+"Female","65-74","2",27.6
+"Female","55-64","3",15
+"Female","75+","1 (least deprived)",0
+"Male","55-64","5 (most deprived)",0
+"Male","45-54","4",0
+"Female","75+","1 (least deprived)",4.5
+"Male","35-44","3",15
+"Male","45-54","4",0
+"Male","55-64","1 (least deprived)",2
+"Female","75+","2",10.5
+"Male","35-44","2",10.7
+"Male","25-34","3",7
+"Female","16-24","4",8.9
+"Male","35-44","1 (least deprived)",8.7
+"Female","45-54","2",2
+"Male","65-74","3",14
+"Female","75+","1 (least deprived)",8.5
+"Female","45-54","5 (most deprived)",5.2
+"Female","35-44","4",7.5
+"Female","35-44","3",0
+"Male","65-74","3",0
+"Male","25-34","1 (least deprived)",13.3
+"Male","45-54","5 (most deprived)",140
+"Female","55-64","1 (least deprived)",0.7
+"Male","45-54","2",0
+"Female","55-64","1 (least deprived)",0.1
+"Female","45-54","5 (most deprived)",0
+"Male","45-54","4",21
+"Male","35-44","4",6.7
+"Female","25-34","1 (least deprived)",5.6
+"Male","65-74","4",10.6
+"Female","35-44","3",5.2
+"Female","65-74","5 (most deprived)",7.5
+"Female","55-64","1 (least deprived)",0
+"Male","55-64","1 (least deprived)",18
+"Male","25-34","2",6
+"Male","65-74","3",87.4
+"Female","65-74","2",0.8
+"Male","25-34","3",7.9
+"Male","45-54","3",15.5
+"Female","25-34","2",0.2
+"Female","65-74","2",13.5
+"Female","25-34","3",13.7
+"Male","75+","1 (least deprived)",3.1
+"Female","35-44","3",1
+"Female","35-44","5 (most deprived)",0
+"Female","45-54","5 (most deprived)",11
+"Male","45-54","3",6
+"Male","75+","3",3.5
+"Male","65-74","2",21
+"Female","75+","1 (least deprived)",6
+"Male","55-64","1 (least deprived)",15
+"Female","65-74","4",8.2
+"Male","65-74","3",28.5
+"Female","65-74","3",4.5
+"Female","65-74","1 (least deprived)",7.1
+"Male","25-34","3",0.1
+"Male","16-24","4",17.6
+"Male","25-34","2",1.7
+"Female","45-54","2",5.2
+"Female","75+","3",0.1
+"Female","35-44","5 (most deprived)",32.6
+"Male","45-54","1 (least deprived)",34
+"Male","75+","4",70
+"Female","45-54","1 (least deprived)",8.5
+"Female","65-74","3",0.1
+"Female","45-54","2",1.2
+"Female","55-64","4",2.2
+"Male","65-74","2",20.6
+"Male","55-64","1 (least deprived)",24
+"Female","55-64","1 (least deprived)",0
+"Female","75+","4",0
+"Female","25-34","5 (most deprived)",4.8
+"Male","65-74","4",5
+"Female","75+","4",10.5
+"Male","35-44","2",1.7
+"Female","45-54","3",4.5
+"Female","65-74","5 (most deprived)",0.1
+"Female","35-44","5 (most deprived)",6.8
+"Male","55-64","3",0.8
+"Male","35-44","2",10.7
+"Male","65-74","3",12
+"Female","55-64","5 (most deprived)",0.1
+"Female","35-44","2",8.3
+"Female","45-54","3",8.4
+"Female","65-74","3",0
+"Female","65-74","2",8.6
+"Female","16-24","2",16
+"Male","55-64","5 (most deprived)",0
+"Female","45-54","5 (most deprived)",0.1
+"Female","25-34","2",1
+"Female","65-74","1 (least deprived)",6
+"Female","35-44","4",3.3
+"Female","65-74","4",2.7
+"Female","65-74","3",16.8
+"Female","35-44","4",0
+"Female","16-24","1 (least deprived)",4.3
+"Male","55-64","1 (least deprived)",48
+"Male","75+","3",0.6
+"Female","65-74","1 (least deprived)",3
+"Male","45-54","5 (most deprived)",25.5
+"Male","35-44","1 (least deprived)",9.2
+"Male","55-64","4",14
+"Female","55-64","2",0.8
+"Male","45-54","2",0.4
+"Female","45-54","2",0.9
+"Male","35-44","2",0.2
+"Female","16-24","1 (least deprived)",6.2
+"Female","55-64","1 (least deprived)",0
+"Female","65-74","2",0
+"Female","75+","2",0.3
+"Male","25-34","3",10.5
+"Male","35-44","5 (most deprived)",0.2
+"Female","55-64","3",8.8
+"Male","35-44","4",1.3
+"Female","75+","1 (least deprived)",4.5
+"Male","55-64","1 (least deprived)",24
+"Female","65-74","2",0
+"Male","75+","5 (most deprived)",0
+"Female","55-64","4",11.2
+"Male","25-34","1 (least deprived)",2.8
+"Female","65-74","1 (least deprived)",2.8
+"Female","75+","4",0
+"Female","55-64","1 (least deprived)",35
+"Female","55-64","2",2.6
+"Female","45-54","2",21.4
+"Female","55-64","4",13.4
+"Female","45-54","1 (least deprived)",10.7
+"Female","35-44","2",3.4
+"Female","25-34","3",0
+"Female","65-74","3",18.1
+"Female","65-74","1 (least deprived)",15.5
+"Female","25-34","5 (most deprived)",0.5
+"Female","55-64","5 (most deprived)",4.9
+"Male","25-34","3",12.8
+"Male","75+","1 (least deprived)",0
+"Male","65-74","2",50.2
+"Female","45-54","3",0.3
+"Female","55-64","1 (least deprived)",7.2
+"Female","25-34","3",1.6
+"Female","16-24","4",0.2
+"Female","25-34","1 (least deprived)",0.1
+"Female","65-74","1 (least deprived)",6.2
+"Male","16-24","5 (most deprived)",20.2
+"Female","75+","2",10.6
+"Female","75+","1 (least deprived)",0
+"Female","25-34","4",0.1
+"Female","65-74","3",0
+"Male","25-34","2",11.2
+"Female","35-44","1 (least deprived)",11.3
+"Female","45-54","3",27.1
+"Female","65-74","3",42
+"Female","75+","4",0.6
+"Female","35-44","1 (least deprived)",0.7
+"Female","65-74","3",0.1
+"Female","45-54","1 (least deprived)",43.5
+"Female","45-54","3",0.1
+"Male","55-64","2",0.3
+"Female","25-34","3",0
+"Male","45-54","2",0
+"Female","45-54","2",4.5
+"Male","35-44","1 (least deprived)",13.1
+"Female","65-74","2",14.1
+"Female","35-44","5 (most deprived)",0
+"Female","35-44","2",24
+"Female","65-74","3",1.5
+"Male","75+","3",0
+"Female","45-54","2",0
+"Male","45-54","4",3.3
+"Male","45-54","5 (most deprived)",3.8
+"Male","45-54","2",1.8
+"Female","25-34","1 (least deprived)",2.2
+"Male","65-74","2",0
+"Female","25-34","1 (least deprived)",9
+"Male","16-24","4",2.5
+"Female","55-64","3",1.6
+"Female","65-74","3",0
+"Male","55-64","4",14
+"Male","65-74","2",17.7
+"Male","55-64","3",27.5
+"Male","16-24","2",14.2
+"Male","25-34","3",0.5
+"Female","65-74","3",13.5
+"Female","35-44","2",12.7
+"Male","35-44","3",20.3
+"Male","75+","2",0
+"Male","35-44","2",10.7
+"Female","35-44","4",4.5
+"Male","25-34","4",3
+"Female","55-64","1 (least deprived)",0
+"Male","55-64","2",43.7
+"Male","16-24","4",0
+"Male","25-34","5 (most deprived)",6.6
+"Male","55-64","5 (most deprived)",9
+"Male","35-44","5 (most deprived)",7.2
+"Female","65-74","2",1.6
+"Male","45-54","2",13
+"Female","25-34","4",5.2
+"Male","25-34","4",0
+"Female","65-74","2",0.7
+"Female","55-64","1 (least deprived)",0
+"Male","25-34","2",4.7
+"Male","65-74","2",31.5
+"Female","35-44","1 (least deprived)",5.6
+"Female","45-54","4",12
+"Female","55-64","5 (most deprived)",18
+"Female","45-54","5 (most deprived)",7.5
+"Male","65-74","1 (least deprived)",7.6
+"Female","25-34","2",10
+"Male","25-34","1 (least deprived)",0.6
+"Female","16-24","3",0.2
+"Female","65-74","2",0
+"Male","25-34","1 (least deprived)",20.6
+"Male","25-34","4",7.2
+"Male","35-44","4",18
+"Male","55-64","5 (most deprived)",11.7
+"Female","16-24","1 (least deprived)",4.3
+"Female","35-44","3",14.6
+"Male","35-44","5 (most deprived)",23.2
+"Female","25-34","3",0
+"Female","16-24","2",16
+"Male","45-54","1 (least deprived)",3.1
+"Male","65-74","3",0
+"Female","25-34","5 (most deprived)",0
+"Male","65-74","4",5
+"Male","55-64","4",1.9
+"Male","45-54","4",0.1
+"Female","35-44","4",0.3
+"Male","65-74","1 (least deprived)",2.2
+"Female","75+","4",0.1
+"Male","75+","1 (least deprived)",16.6
+"Male","35-44","2",56
+"Male","65-74","3",3
+"Female","65-74","2",5.2
+"Male","45-54","2",1.9
+"Male","45-54","5 (most deprived)",140
+"Male","35-44","3",0.4
+"Male","65-74","1 (least deprived)",3.6
+"Male","25-34","2",21
+"Female","16-24","2",6.1
+"Female","55-64","4",0
+"Female","55-64","4",0.8
+"Female","25-34","5 (most deprived)",22.6
+"Male","45-54","3",23.9
+"Male","45-54","4",0.2
+"Female","55-64","4",0.5
+"Male","45-54","5 (most deprived)",3.1
+"Female","55-64","3",0.3
+"Male","25-34","2",13.4
+"Female","55-64","1 (least deprived)",6.3
+"Female","65-74","2",1.5
+"Male","25-34","4",5.5
+"Female","75+","5 (most deprived)",31.9
+"Female","65-74","2",8
+"Female","75+","1 (least deprived)",0.1
+"Male","55-64","1 (least deprived)",18
+"Male","55-64","4",17.6
+"Female","35-44","3",15
+"Male","55-64","2",1
+"Female","35-44","4",0
+"Male","45-54","1 (least deprived)",9
+"Female","55-64","2",0.4
+"Male","35-44","3",27.1
+"Male","35-44","2",0
+"Female","45-54","3",27.1
+"Female","55-64","3",13.7
+"Male","25-34","4",1.2
+"Male","65-74","3",0
+"Male","35-44","2",0.5
+"Female","16-24","3",0
+"Female","55-64","1 (least deprived)",7.8
+"Male","65-74","2",15.1
+"Female","25-34","4",0.1
+"Male","25-34","2",0
+"Female","55-64","1 (least deprived)",13.5
+"Female","55-64","1 (least deprived)",21.2
+"Male","25-34","1 (least deprived)",0.3
+"Female","75+","3",0
+"Male","65-74","5 (most deprived)",23.9
+"Female","55-64","5 (most deprived)",9
+"Female","35-44","3",12.2
+"Male","65-74","1 (least deprived)",0.2
+"Male","25-34","2",21
+"Male","25-34","4",9.4
+"Male","35-44","4",9.3
+"Female","25-34","4",1
+"Male","25-34","2",10
+"Female","65-74","3",0
+"Male","65-74","2",11.2
+"Female","75+","4",5.3
+"Male","75+","1 (least deprived)",7.2
+"Female","75+","1 (least deprived)",3.1
+"Female","25-34","4",0.1
+"Female","25-34","3",0
+"Female","35-44","3",2.2
+"Female","55-64","5 (most deprived)",1.1
+"Male","75+","3",0
+"Male","45-54","5 (most deprived)",10.6
+"Female","55-64","1 (least deprived)",7
+"Male","25-34","4",0.9
+"Female","16-24","3",3
+"Male","75+","4",0.2
+"Female","25-34","1 (least deprived)",4.4
+"Female","45-54","4",3.8
+"Male","35-44","1 (least deprived)",0
+"Male","25-34","1 (least deprived)",4.6
+"Male","16-24","2",2.4
+"Male","65-74","5 (most deprived)",32.2
+"Female","65-74","1 (least deprived)",0
+"Female","25-34","2",0
+"Female","25-34","5 (most deprived)",0.4
+"Female","16-24","2",0
+"Female","45-54","5 (most deprived)",2.1
+"Male","35-44","1 (least deprived)",2
+"Male","55-64","5 (most deprived)",8.2
+"Male","55-64","4",14
+"Female","45-54","4",0.5
+"Male","35-44","3",10.3
+"Male","65-74","4",0.4
+"Male","65-74","2",0.8
+"Male","16-24","2",3.8
+"Female","35-44","1 (least deprived)",0
+"Female","45-54","2",20
+"Male","65-74","1 (least deprived)",64.3
+"Female","55-64","3",22.2
+"Male","45-54","2",280
+"Female","35-44","4",7.4
+"Male","75+","4",14.5
+"Male","35-44","2",3.2
+"Female","65-74","2",2.2
+"Male","75+","3",0
+"Female","25-34","2",0.1
+"Female","16-24","3",0
+"Female","65-74","2",0.8
+"Male","55-64","4",0
+"Female","35-44","3",1
+"Female","45-54","4",0.5
+"Female","45-54","1 (least deprived)",12.1
+"Male","35-44","3",2.8
+"Female","45-54","2",0
+"Female","65-74","3",6.2
+"Male","45-54","4",8.2
+"Female","25-34","4",103.2
+"Male","65-74","1 (least deprived)",11.2
+"Female","55-64","1 (least deprived)",0
+"Female","45-54","5 (most deprived)",1.1
+"Female","55-64","2",0.1
+"Male","65-74","3",8.1
+"Female","16-24","1 (least deprived)",7.7
+"Male","75+","5 (most deprived)",0
+"Female","55-64","2",16.7
+"Female","65-74","2",27.6
+"Female","16-24","4",7.8
+"Female","45-54","4",3
+"Male","45-54","4",23.5
+"Female","55-64","3",0.2
+"Female","75+","4",0
+"Female","55-64","3",4.8
+"Female","16-24","4",20.6
+"Male","45-54","1 (least deprived)",8
+"Female","25-34","5 (most deprived)",0
+"Female","25-34","5 (most deprived)",4.8
+"Female","55-64","4",5.3
+"Male","45-54","1 (least deprived)",6.6
+"Male","75+","1 (least deprived)",0
+"Female","45-54","5 (most deprived)",0.3
+"Male","45-54","4",0.2
+"Male","65-74","5 (most deprived)",7
+"Female","35-44","1 (least deprived)",3.3
+"Female","55-64","1 (least deprived)",6.7
+"Female","35-44","4",0.3
+"Female","45-54","5 (most deprived)",0.3
+"Female","55-64","5 (most deprived)",18
+"Male","55-64","2",0.4
+"Male","55-64","3",0
+"Female","65-74","3",18.1
+"Female","55-64","1 (least deprived)",51
+"Female","55-64","2",27
+"Male","45-54","3",16.5
+"Male","65-74","5 (most deprived)",3
+"Female","55-64","5 (most deprived)",0
+"Male","65-74","1 (least deprived)",10.5
+"Male","45-54","1 (least deprived)",0
+"Female","75+","2",0
+"Male","45-54","3",73.1
+"Male","16-24","2",0
+"Female","35-44","3",0.8
+"Male","16-24","3",18
+"Male","25-34","3",0.6
+"Male","55-64","4",14
+"Female","16-24","2",6.8
+"Female","45-54","4",8.3
+"Female","16-24","5 (most deprived)",80.9
+"Female","55-64","5 (most deprived)",14.9
+"Female","35-44","4",35.5
+"Female","16-24","2",0.1
+"Male","55-64","3",0.8
+"Male","35-44","1 (least deprived)",27.5
+"Male","75+","1 (least deprived)",15.1
+"Male","75+","2",0
+"Female","16-24","1 (least deprived)",0.4
+"Male","45-54","5 (most deprived)",18.5
+"Male","75+","3",0
+"Female","45-54","3",0.7
+"Female","35-44","1 (least deprived)",11.2
+"Female","25-34","3",0
+"Male","65-74","2",15
+"Female","55-64","1 (least deprived)",7
+"Male","35-44","2",9
+"Female","25-34","3",9.7
+"Male","45-54","5 (most deprived)",1
+"Female","25-34","1 (least deprived)",0
+"Female","65-74","3",27.8
+"Female","55-64","3",7.8
+"Male","45-54","1 (least deprived)",8
+"Male","75+","3",13.5
+"Female","55-64","3",9.5
+"Female","45-54","1 (least deprived)",2.2
+"Female","45-54","3",4.7
+"Male","65-74","3",0
+"Female","55-64","1 (least deprived)",0.3
+"Male","35-44","3",5
+"Male","35-44","5 (most deprived)",2.9
+"Female","55-64","3",34
+"Male","25-34","4",0.9
+"Male","65-74","4",3
+"Female","25-34","3",0.3
+"Female","16-24","2",18.8
+"Female","25-34","1 (least deprived)",2.4
+"Female","25-34","1 (least deprived)",1.2
+"Female","55-64","3",0
+"Male","25-34","1 (least deprived)",3.1
+"Female","16-24","3",1.5
+"Female","25-34","4",0.1
+"Female","25-34","5 (most deprived)",0.3
+"Male","65-74","2",9.8
+"Female","25-34","2",1.9
+"Female","55-64","5 (most deprived)",18
+"Male","25-34","3",0
+"Male","35-44","3",7.2
+"Female","45-54","4",15.3
+"Female","25-34","1 (least deprived)",0.1
+"Male","35-44","3",0
+"Male","75+","1 (least deprived)",4.6
+"Male","55-64","3",0
+"Male","45-54","1 (least deprived)",74.5
+"Male","55-64","4",24.5
+"Male","45-54","2",19.7
+"Male","25-34","3",0.4
+"Female","35-44","2",2.4
+"Female","35-44","2",10.5
+"Female","55-64","5 (most deprived)",0.1
+"Male","65-74","3",27.8
+"Male","55-64","2",7
+"Female","75+","2",0.1
+"Female","45-54","3",7.1
+"Female","55-64","3",5.3
+"Female","75+","3",2.3
+"Female","25-34","3",9.5
+"Female","55-64","1 (least deprived)",0.7
+"Female","25-34","4",1
+"Male","65-74","5 (most deprived)",12
+"Male","45-54","4",39.5
+"Female","16-24","3",0
+"Male","65-74","3",34.5
+"Female","55-64","2",9.2
+"Female","65-74","3",0
+"Male","45-54","2",13.2
+"Male","25-34","3",1.9
+"Male","75+","2",0
+"Female","45-54","2",0
+"Female","35-44","4",0.6
+"Female","45-54","5 (most deprived)",5.2
+"Female","55-64","2",0
+"Female","45-54","3",15.9
+"Female","35-44","2",5.6
+"Male","55-64","4",0
+"Female","45-54","4",0
+"Female","65-74","1 (least deprived)",0.4
+"Male","65-74","5 (most deprived)",0.1
+"Male","55-64","3",4.3
+"Female","45-54","3",4.7
+"Female","55-64","5 (most deprived)",4.9
+"Female","55-64","2",2.6
+"Male","75+","4",30.8
+"Male","45-54","3",2.3
+"Female","45-54","3",1.6
+"Female","75+","4",0
+"Female","25-34","5 (most deprived)",0
+"Male","16-24","4",3.8
+"Female","65-74","3",0.1
+"Male","16-24","5 (most deprived)",6.9
+"Male","16-24","4",16.2
+"Female","65-74","5 (most deprived)",0.4
+"Female","75+","4",0.6
+"Female","45-54","5 (most deprived)",16.2
+"Male","45-54","1 (least deprived)",9
+"Male","65-74","3",1.5
+"Female","45-54","5 (most deprived)",13.9
+"Female","25-34","3",0
+"Male","55-64","3",0
+"Male","55-64","2",0
+"Female","65-74","1 (least deprived)",15.9
+"Female","55-64","4",0
+"Male","25-34","2",7.5
+"Female","25-34","5 (most deprived)",22.6
+"Female","45-54","5 (most deprived)",0
+"Female","65-74","3",7.4
+"Female","45-54","3",6
+"Female","55-64","2",0.4
+"Male","16-24","2",4.4
+"Male","55-64","2",105
+"Male","75+","2",0
+"Female","65-74","4",8.2
+"Female","65-74","3",0
+"Male","75+","5 (most deprived)",22.8
+"Male","75+","4",0.8
+"Female","55-64","2",1.2
+"Male","45-54","3",0
+"Female","65-74","3",21.2
+"Female","55-64","3",0.3
+"Male","25-34","5 (most deprived)",1.1
+"Male","55-64","4",7.5
+"Male","45-54","5 (most deprived)",31.5
+"Female","45-54","1 (least deprived)",1.7
+"Male","65-74","2",20.6
+"Female","16-24","4",9.8
+"Female","55-64","3",0.2
+"Male","25-34","2",25.5
+"Female","55-64","2",21.9
+"Female","55-64","5 (most deprived)",84.6
+"Male","65-74","3",1.6
+"Female","25-34","1 (least deprived)",0.2
+"Female","45-54","5 (most deprived)",17.7
+"Male","65-74","3",8.2
+"Female","55-64","4",1.7
+"Male","55-64","5 (most deprived)",35
+"Male","55-64","3",12.8
+"Male","65-74","3",12.1
+"Male","35-44","3",5
+"Female","55-64","1 (least deprived)",49.5
+"Female","25-34","1 (least deprived)",6.8
+"Female","55-64","5 (most deprived)",9
+"Female","16-24","4",0
+"Male","25-34","1 (least deprived)",19.7
+"Male","75+","3",0
+"Male","55-64","4",14
+"Female","55-64","3",34
+"Male","35-44","3",5
+"Male","75+","1 (least deprived)",0
+"Female","55-64","4",0
+"Female","45-54","3",0
+"Male","55-64","4",30.4
+"Female","35-44","1 (least deprived)",0
+"Male","65-74","3",12
+"Male","75+","4",0
+"Female","35-44","3",2.8
+"Female","25-34","2",3.6
+"Female","25-34","5 (most deprived)",16.4
+"Female","75+","2",0.1
+"Male","55-64","5 (most deprived)",0
+"Female","75+","2",0.3
+"Female","55-64","2",33
+"Male","75+","1 (least deprived)",5.6
+"Male","55-64","2",86.2
+"Female","45-54","4",0
+"Male","45-54","5 (most deprived)",1.2
+"Male","55-64","1 (least deprived)",27.5
+"Female","25-34","5 (most deprived)",1.1
+"Female","65-74","1 (least deprived)",0.5
+"Female","75+","3",0.1
+"Female","25-34","1 (least deprived)",10.5
+"Female","35-44","1 (least deprived)",7.6
+"Male","45-54","5 (most deprived)",15
+"Female","35-44","5 (most deprived)",2
+"Female","25-34","2",1
+"Male","55-64","4",10.8
+"Female","65-74","5 (most deprived)",7.4
+"Male","55-64","4",17.6
+"Female","35-44","1 (least deprived)",0
+"Female","65-74","2",0.1
+"Female","45-54","2",0.7
+"Female","16-24","4",8.9
+"Male","45-54","2",4.8
+"Male","25-34","4",0.2
+"Female","75+","1 (least deprived)",19.2
+"Female","45-54","2",7.1
+"Female","45-54","1 (least deprived)",54
+"Male","16-24","4",16.2
+"Female","75+","1 (least deprived)",0
+"Male","35-44","2",14.5
+"Male","75+","1 (least deprived)",3
+"Male","55-64","4",21
+"Female","55-64","1 (least deprived)",0
+"Female","45-54","4",3.9
+"Male","16-24","2",16.1
+"Female","45-54","1 (least deprived)",5.2
+"Male","75+","5 (most deprived)",0
+"Female","55-64","5 (most deprived)",0
+"Female","65-74","4",18
+"Female","35-44","3",2.9
+"Female","45-54","4",32.2
+"Male","45-54","4",3.1
+"Male","65-74","3",3
+"Male","65-74","4",0
+"Female","55-64","2",17
+"Male","55-64","2",0.4
+"Female","65-74","3",0.1
+"Female","45-54","5 (most deprived)",1.1
+"Male","45-54","5 (most deprived)",15
+"Female","35-44","3",3.1
+"Male","65-74","3",0
+"Female","65-74","2",0.7
+"Female","35-44","1 (least deprived)",1.8
+"Female","45-54","2",3.2
+"Male","55-64","5 (most deprived)",15.5
+"Female","45-54","1 (least deprived)",13.6
+"Male","45-54","4",12.4
+"Male","45-54","4",0
+"Female","16-24","1 (least deprived)",12
+"Male","45-54","2",1.9
+"Female","55-64","2",34.7
+"Male","45-54","1 (least deprived)",1.8
+"Male","35-44","1 (least deprived)",0
+"Female","75+","3",0
+"Female","16-24","2",9.7
+"Male","45-54","5 (most deprived)",56.2
+"Female","75+","4",9
+"Female","45-54","1 (least deprived)",0.8
+"Female","55-64","3",0.1
+"Male","65-74","2",99.5
+"Male","45-54","1 (least deprived)",5.6
+"Female","55-64","5 (most deprived)",4.5
+"Male","16-24","2",52.3
+"Female","55-64","4",4.5
+"Male","45-54","4",280
+"Female","55-64","5 (most deprived)",0.1
+"Female","65-74","3",0
+"Male","65-74","3",14.8
+"Female","65-74","1 (least deprived)",0
+"Male","65-74","2",0
+"Female","25-34","2",3.7
+"Male","45-54","3",6
+"Male","45-54","5 (most deprived)",0
+"Female","45-54","2",14.8
+"Male","45-54","2",13.2
+"Male","65-74","1 (least deprived)",0.3
+"Female","25-34","5 (most deprived)",6.3
+"Male","55-64","1 (least deprived)",18
+"Male","35-44","3",2.8
+"Female","45-54","1 (least deprived)",21
+"Female","65-74","2",9
+"Male","16-24","1 (least deprived)",7.1
+"Male","75+","4",14.5
+"Female","75+","3",0
+"Male","25-34","3",5.5
+"Female","45-54","1 (least deprived)",6.8
+"Male","45-54","4",24
+"Female","55-64","5 (most deprived)",6
+"Female","35-44","3",1
+"Female","25-34","2",5.3
+"Male","55-64","5 (most deprived)",70
+"Female","75+","5 (most deprived)",0
+"Female","75+","2",0
+"Female","55-64","2",3
+"Female","45-54","3",5.6
+"Female","35-44","2",0
+"Male","35-44","1 (least deprived)",0
+"Female","75+","4",0
+"Male","65-74","2",20.4
+"Female","35-44","1 (least deprived)",0
+"Male","75+","1 (least deprived)",0
+"Male","25-34","3",10.5
+"Female","75+","2",0
+"Male","55-64","5 (most deprived)",3.8
+"Male","55-64","5 (most deprived)",28
+"Female","65-74","3",0
+"Male","25-34","3",26
+"Male","75+","2",16.8
+"Female","45-54","2",0.9
+"Male","35-44","3",31.5
+"Female","65-74","2",15.5
+"Female","45-54","1 (least deprived)",4.5
+"Female","55-64","1 (least deprived)",0
+"Male","25-34","3",7.9
+"Male","45-54","5 (most deprived)",4.3
+"Male","35-44","1 (least deprived)",3.4
+"Male","75+","4",0
+"Male","25-34","3",7.8
+"Male","65-74","2",11.2
+"Male","55-64","3",27.5
+"Female","35-44","2",9.1
+"Female","65-74","2",7.5
+"Male","35-44","4",6.1
+"Male","45-54","2",12.3
+"Female","55-64","5 (most deprived)",1.1
+"Female","45-54","2",20
+"Female","75+","3",0.4
+"Female","25-34","1 (least deprived)",0.1
+"Male","75+","2",0.6
+"Male","45-54","3",47
+"Male","75+","1 (least deprived)",1.5
+"Male","65-74","3",0
+"Female","75+","3",0.1
+"Male","55-64","2",0.2
+"Female","16-24","1 (least deprived)",1
+"Male","65-74","3",0
+"Male","35-44","3",2.2
+"Male","75+","2",8.9
+"Female","35-44","5 (most deprived)",12
+"Female","25-34","3",0
+"Female","45-54","1 (least deprived)",42
+"Male","45-54","1 (least deprived)",37.1
+"Female","55-64","5 (most deprived)",6
+"Male","55-64","3",1.8
+"Female","65-74","3",0
+"Female","45-54","2",6.8
+"Male","55-64","5 (most deprived)",71.6
+"Female","75+","5 (most deprived)",0
+"Male","35-44","5 (most deprived)",66
+"Female","75+","5 (most deprived)",0
+"Female","55-64","4",26.3
+"Female","55-64","2",0.1
+"Male","65-74","4",0
+"Female","45-54","1 (least deprived)",22.5
+"Male","35-44","5 (most deprived)",1.5
+"Female","55-64","2",0.2
+"Male","25-34","3",0.1
+"Female","55-64","5 (most deprived)",14.9
+"Female","16-24","4",3.4
+"Male","65-74","2",0.6
+"Male","65-74","4",15
+"Female","65-74","3",1.3
+"Male","45-54","5 (most deprived)",56
+"Female","16-24","5 (most deprived)",9.8
+"Male","16-24","2",0
+"Female","55-64","2",0.4
+"Male","25-34","3",0
+"Female","45-54","1 (least deprived)",43.5
+"Male","65-74","4",10.6
+"Male","25-34","5 (most deprived)",22.5
+"Male","25-34","1 (least deprived)",38.6
+"Female","16-24","1 (least deprived)",18.4
+"Female","55-64","2",2.7
+"Male","16-24","4",3.8
+"Male","16-24","3",2.4
+"Female","45-54","1 (least deprived)",31.5
+"Female","65-74","1 (least deprived)",0.1
+"Female","45-54","1 (least deprived)",13.6
+"Female","35-44","3",3.4
+"Female","25-34","3",0
+"Male","45-54","5 (most deprived)",0.1
+"Female","45-54","5 (most deprived)",0.3
+"Female","75+","3",10.6
+"Female","35-44","1 (least deprived)",7.6
+"Male","16-24","4",8.8
+"Female","16-24","5 (most deprived)",1.2
+"Female","25-34","5 (most deprived)",1.1
+"Female","35-44","1 (least deprived)",14.2
+"Female","55-64","3",15
+"Female","25-34","1 (least deprived)",9.4
+"Male","75+","1 (least deprived)",15.1
+"Female","75+","2",1
+"Female","25-34","3",14.2
+"Female","35-44","5 (most deprived)",6.8
+"Male","45-54","5 (most deprived)",0.1
+"Male","35-44","1 (least deprived)",31.9
+"Female","25-34","4",2.5
+"Male","55-64","4",14
+"Female","35-44","1 (least deprived)",15
+"Female","45-54","1 (least deprived)",5.2
+"Female","65-74","5 (most deprived)",1.2
+"Male","35-44","1 (least deprived)",6
+"Female","75+","2",0
+"Female","65-74","2",2.7
+"Female","25-34","4",2.1
+"Male","45-54","3",0.1
+"Female","25-34","5 (most deprived)",5
+"Female","16-24","1 (least deprived)",1.9
+"Female","35-44","1 (least deprived)",3.7
+"Male","55-64","2",0.2
+"Male","55-64","2",0.5
+"Male","55-64","5 (most deprived)",28
+"Male","75+","1 (least deprived)",0
+"Male","75+","2",0
+"Male","45-54","3",33.1
+"Male","65-74","3",52.2
+"Female","25-34","2",0
+"Male","65-74","3",0.9
+"Female","55-64","5 (most deprived)",0.1
+"Male","65-74","2",0
+"Female","16-24","2",4.1
+"Female","65-74","1 (least deprived)",6.8
+"Female","16-24","1 (least deprived)",2
+"Female","35-44","1 (least deprived)",4.9
+"Female","65-74","5 (most deprived)",11.2
+"Female","35-44","1 (least deprived)",16.5
+"Female","25-34","2",5.3
+"Male","75+","5 (most deprived)",18.3
+"Female","65-74","2",0
+"Female","35-44","3",40.4
+"Male","55-64","2",0
+"Female","65-74","5 (most deprived)",1.6
+"Male","45-54","3",1.7
+"Female","35-44","4",5.3
+"Female","16-24","3",1.5
+"Female","35-44","2",0.2
+"Male","55-64","2",62.8
+"Female","25-34","2",10
+"Male","75+","3",0
+"Male","35-44","1 (least deprived)",0
+"Female","16-24","4",0
+"Female","65-74","5 (most deprived)",12
+"Female","35-44","3",0
+"Male","65-74","5 (most deprived)",0.5
+"Male","55-64","2",6.5
+"Male","65-74","1 (least deprived)",9
+"Male","25-34","1 (least deprived)",2.8
+"Female","75+","1 (least deprived)",0
+"Female","65-74","5 (most deprived)",0
+"Male","35-44","1 (least deprived)",0.4
+"Female","45-54","4",1.8
+"Male","35-44","4",12.5
+"Female","35-44","5 (most deprived)",0.2
+"Male","65-74","2",0.9
+"Male","55-64","2",0
+"Male","75+","1 (least deprived)",12.4
+"Female","45-54","1 (least deprived)",32.7
+"Female","65-74","4",0.2
+"Female","55-64","3",13.5
+"Male","45-54","4",29.6
+"Female","45-54","4",2.7
+"Female","55-64","2",27
+"Female","35-44","4",5.5
+"Female","55-64","4",14
+"Female","25-34","1 (least deprived)",14.8
+"Female","35-44","3",0.8
+"Female","16-24","2",3.4
+"Male","75+","3",10.5
+"Male","55-64","5 (most deprived)",2.9
+"Male","65-74","1 (least deprived)",7.6
+"Female","65-74","3",42
+"Female","45-54","2",9.3
+"Female","45-54","5 (most deprived)",0.6
+"Female","16-24","5 (most deprived)",0.9
+"Male","75+","1 (least deprived)",28
+"Female","25-34","3",5
+"Male","55-64","5 (most deprived)",122.1
+"Male","25-34","2",2.1
+"Male","45-54","4",33.8
+"Female","25-34","1 (least deprived)",0
+"Male","35-44","3",243.2
+"Male","45-54","4",6.8
+"Female","45-54","5 (most deprived)",0.6
+"Female","65-74","2",0
+"Male","75+","3",1
+"Female","25-34","1 (least deprived)",1.2
+"Female","55-64","3",0.1
+"Female","65-74","2",15.5
+"Female","45-54","3",0.2
+"Male","75+","5 (most deprived)",0
+"Male","45-54","5 (most deprived)",25.5
+"Female","55-64","1 (least deprived)",7.2
+"Male","25-34","1 (least deprived)",0.9
+"Female","55-64","3",34
+"Male","65-74","2",0
+"Female","45-54","5 (most deprived)",0.6
+"Male","75+","5 (most deprived)",0
+"Male","25-34","3",11.1
+"Female","35-44","3",24
+"Male","35-44","1 (least deprived)",6
+"Female","25-34","2",4.6
+"Female","55-64","4",6
+"Male","75+","5 (most deprived)",0
+"Male","75+","2",0.1
+"Female","75+","2",31.6
+"Female","55-64","3",0
+"Female","55-64","4",10.1
+"Female","35-44","3",9.1
+"Male","75+","2",24.1
+"Male","55-64","1 (least deprived)",12.5
+"Male","25-34","3",18.1
+"Female","25-34","4",0
+"Female","25-34","4",10.5
+"Female","35-44","5 (most deprived)",29.5
+"Female","55-64","4",26.3
+"Male","35-44","3",0.1
+"Female","35-44","4",7.5
+"Male","75+","3",29.1
+"Female","25-34","5 (most deprived)",1.1
+"Female","25-34","2",1.3
+"Female","75+","1 (least deprived)",28
+"Female","25-34","1 (least deprived)",0
+"Female","45-54","4",0.5
+"Female","65-74","2",3.2
+"Male","35-44","3",3.8
+"Female","35-44","4",1
+"Female","55-64","1 (least deprived)",7.7
+"Male","45-54","2",36.2
+"Male","55-64","3",0
+"Male","75+","4",0
+"Male","16-24","3",7.5
+"Male","25-34","1 (least deprived)",0.1
+"Male","75+","4",14
+"Female","35-44","2",9
+"Male","65-74","1 (least deprived)",4.3
+"Female","55-64","5 (most deprived)",1.2
+"Female","16-24","3",0.2
+"Male","16-24","4",4.9
+"Female","55-64","4",9
+"Female","45-54","3",5.6
+"Male","55-64","2",45
+"Female","75+","2",31.6
+"Male","35-44","3",0
+"Female","35-44","1 (least deprived)",0
+"Female","16-24","5 (most deprived)",21
+"Male","45-54","4",0
+"Female","75+","3",2.3
+"Female","35-44","3",1
+"Female","25-34","3",0.7
+"Female","75+","1 (least deprived)",0.8
+"Female","55-64","2",0.2
+"Female","75+","1 (least deprived)",0
+"Male","45-54","4",0
+"Female","25-34","5 (most deprived)",0.5
+"Female","55-64","3",0.2
+"Female","45-54","2",16.9
+"Male","35-44","5 (most deprived)",0.2
+"Male","45-54","4",39.5
+"Male","55-64","4",0
+"Male","55-64","5 (most deprived)",2.9
+"Male","16-24","1 (least deprived)",15.4
+"Male","45-54","3",0
+"Male","45-54","4",13.2
+"Male","75+","1 (least deprived)",4.6
+"Female","35-44","3",14.6
+"Female","16-24","1 (least deprived)",43.5
+"Male","65-74","5 (most deprived)",33
+"Female","75+","1 (least deprived)",0
+"Male","25-34","3",18.2
+"Female","55-64","5 (most deprived)",0
+"Female","45-54","1 (least deprived)",6.2
+"Male","25-34","1 (least deprived)",6.3
+"Female","55-64","3",22.7
+"Male","75+","5 (most deprived)",0
+"Female","25-34","5 (most deprived)",0.9
+"Male","25-34","2",11.2
+"Female","35-44","5 (most deprived)",4.6
+"Female","65-74","2",8.6
+"Male","45-54","4",15
+"Male","25-34","1 (least deprived)",20.6
+"Male","75+","3",8.6
+"Female","35-44","2",12.7
+"Female","65-74","2",0
+"Male","55-64","5 (most deprived)",0.1
+"Male","25-34","2",4
+"Male","75+","1 (least deprived)",0.1
+"Female","45-54","4",0.2
+"Male","75+","5 (most deprived)",0
+"Male","65-74","1 (least deprived)",0.9
+"Female","55-64","1 (least deprived)",6.7
+"Female","75+","4",0.4
+"Male","65-74","1 (least deprived)",3.9
+"Male","75+","2",31.6
+"Male","55-64","3",6
+"Female","25-34","1 (least deprived)",0
+"Female","65-74","2",8.6
+"Female","55-64","3",14.8
+"Male","65-74","1 (least deprived)",33
+"Female","55-64","3",6.8
+"Female","45-54","2",1.1
+"Female","55-64","5 (most deprived)",0
+"Female","65-74","1 (least deprived)",7.1
+"Female","35-44","3",0
+"Female","55-64","5 (most deprived)",0.1
+"Female","55-64","5 (most deprived)",0
+"Male","65-74","5 (most deprived)",0
+"Female","75+","2",0
+"Female","35-44","3",1.5
+"Female","55-64","2",27
+"Female","65-74","2",4.8
+"Female","55-64","5 (most deprived)",1.5
+"Female","75+","3",0
+"Male","16-24","3",0
+"Male","35-44","2",0.5
+"Female","55-64","5 (most deprived)",0.1
+"Female","35-44","3",0
+"Female","25-34","3",0.3
+"Female","25-34","5 (most deprived)",0
+"Female","55-64","2",13.8
+"Female","25-34","1 (least deprived)",13.9
+"Female","35-44","5 (most deprived)",0.2
+"Female","35-44","1 (least deprived)",0.9
+"Male","25-34","1 (least deprived)",33.4
+"Female","75+","2",10.6
+"Male","45-54","1 (least deprived)",19.2
+"Female","55-64","4",0
+"Male","65-74","4",0.6
+"Female","55-64","4",0
+"Male","75+","4",0.1
+"Female","25-34","2",11.4
+"Female","25-34","1 (least deprived)",0.9
+"Female","55-64","1 (least deprived)",7.7
+"Male","16-24","2",1
+"Female","45-54","4",1.7
+"Female","35-44","3",1.5
+"Female","45-54","4",0.5
+"Female","25-34","4",2.5
+"Male","75+","3",0.4
+"Female","35-44","4",5.4
+"Male","35-44","3",0.3
+"Female","45-54","2",13.1
+"Female","55-64","3",5.2
+"Female","45-54","1 (least deprived)",9.3
+"Female","65-74","2",0.4
+"Female","45-54","5 (most deprived)",0.6
+"Female","55-64","5 (most deprived)",2.5
+"Male","35-44","1 (least deprived)",2
+"Female","45-54","4",0.1
+"Female","55-64","5 (most deprived)",14.1
+"Female","35-44","1 (least deprived)",21.8
+"Female","25-34","2",7
+"Female","25-34","3",9
+"Male","45-54","4",0
+"Male","55-64","3",0
+"Male","55-64","5 (most deprived)",0
+"Male","55-64","2",3.5
+"Male","25-34","5 (most deprived)",30.5
+"Female","55-64","3",2.1
+"Male","25-34","3",0
+"Female","45-54","1 (least deprived)",6.8
+"Male","35-44","3",27.1
+"Female","65-74","3",31.8
+"Female","55-64","2",0.5
+"Female","65-74","4",0
+"Female","65-74","3",3
+"Male","35-44","3",1.7
+"Female","45-54","3",15.1
+"Female","35-44","4",1.2
+"Male","45-54","1 (least deprived)",9
+"Male","35-44","3",0.1
+"Male","55-64","3",0.8
+"Female","35-44","5 (most deprived)",0
+"Female","25-34","1 (least deprived)",1.3
+"Female","45-54","4",0.4
+"Female","45-54","3",0
+"Female","45-54","3",8.4
+"Female","25-34","2",1.8
+"Female","75+","3",0.8
+"Female","35-44","5 (most deprived)",2
+"Male","25-34","4",0
+"Female","55-64","3",2.2
+"Male","45-54","4",280
+"Female","35-44","4",7.4
+"Male","45-54","5 (most deprived)",3.1
+"Female","55-64","5 (most deprived)",0
+"Male","55-64","3",0.7
+"Male","75+","2",4.8
+"Female","25-34","1 (least deprived)",1.3
+"Female","35-44","4",0
+"Female","65-74","5 (most deprived)",12
+"Female","35-44","3",3.7
+"Male","25-34","1 (least deprived)",7.6
+"Female","65-74","3",0
+"Female","55-64","1 (least deprived)",14.8
+"Female","55-64","5 (most deprived)",1.1
+"Female","16-24","2",0
+"Female","45-54","4",0
+"Female","25-34","3",6
+"Male","16-24","5 (most deprived)",4.1
+"Female","45-54","4",3.5
+"Female","55-64","3",15
+"Male","55-64","2",3.8
+"Female","35-44","5 (most deprived)",0
+"Male","75+","2",0
+"Male","45-54","4",84.5
+"Male","55-64","3",12
+"Male","75+","3",11.5
+"Female","35-44","3",0
+"Female","45-54","2",8.2
+"Male","45-54","4",25.5
+"Female","25-34","1 (least deprived)",1.2
+"Female","25-34","1 (least deprived)",10.5
+"Female","55-64","1 (least deprived)",23.6
+"Female","45-54","5 (most deprived)",0.6
+"Male","45-54","1 (least deprived)",6.1
+"Female","55-64","5 (most deprived)",0
+"Female","45-54","1 (least deprived)",31.5
+"Male","45-54","1 (least deprived)",1
+"Female","65-74","4",6
+"Female","45-54","2",3.2
+"Male","75+","5 (most deprived)",0
+"Male","75+","3",0
+"Female","45-54","2",0
+"Male","35-44","3",2.1
+"Male","65-74","3",13.6
+"Female","25-34","1 (least deprived)",13.9
+"Male","45-54","4",0
+"Female","55-64","3",20
+"Female","25-34","5 (most deprived)",0.4
+"Female","35-44","2",1.9
+"Male","45-54","2",7.5
+"Male","35-44","4",1.8
+"Female","75+","2",0
+"Female","65-74","2",8
+"Male","25-34","1 (least deprived)",21.1
+"Female","55-64","2",31.6
+"Female","75+","2",4.5
+"Male","45-54","2",7.5
+"Female","45-54","4",3.8
+"Female","45-54","3",0
+"Female","35-44","4",8.2
+"Male","35-44","2",1
+"Male","45-54","2",13
+"Female","65-74","4",8.2
+"Female","35-44","1 (least deprived)",5.6
+"Female","55-64","4",0.1
+"Male","65-74","4",45
+"Female","55-64","3",7.8
+"Female","25-34","1 (least deprived)",4.4
+"Male","65-74","4",6
+"Female","65-74","5 (most deprived)",15
+"Female","45-54","1 (least deprived)",21
+"Male","16-24","3",33
+"Male","55-64","3",27.5
+"Female","65-74","3",5.2
+"Male","65-74","4",5.6
+"Female","45-54","1 (least deprived)",10.5
+"Female","75+","3",0
+"Female","25-34","1 (least deprived)",13.9
+"Female","45-54","4",18.3
+"Female","16-24","4",5.8
+"Male","55-64","4",21.3
+"Female","35-44","3",15.7
+"Female","55-64","1 (least deprived)",29.5
+"Female","45-54","4",0
+"Female","65-74","4",8
+"Female","45-54","3",6.8
+"Female","45-54","2",0
+"Female","65-74","4",0.8
+"Male","45-54","4",3.1
+"Female","45-54","2",0
+"Male","25-34","3",0.7
+"Female","55-64","5 (most deprived)",18
+"Female","55-64","4",10.5
+"Male","55-64","2",0
+"Male","45-54","3",42.5
+"Female","55-64","4",0.1
+"Male","35-44","1 (least deprived)",2.2
+"Male","25-34","4",10.3
+"Male","35-44","4",0
+"Female","55-64","3",10.5
+"Male","45-54","3",16.2
+"Male","75+","4",0
+"Female","65-74","2",3.1
+"Female","25-34","5 (most deprived)",6.3
+"Male","55-64","2",3.4
+"Female","65-74","1 (least deprived)",1.7
+"Female","25-34","3",0.2
+"Female","25-34","1 (least deprived)",4.4
+"Female","35-44","3",0
+"Female","75+","3",0
+"Male","25-34","4",10.2
+"Male","25-34","2",51
+"Male","65-74","5 (most deprived)",0
+"Female","55-64","2",0.3
+"Female","75+","4",0.1
+"Female","55-64","1 (least deprived)",56
+"Female","25-34","2",0
+"Male","25-34","1 (least deprived)",7.6
+"Male","45-54","4",22.6
+"Female","35-44","4",16.6
+"Female","16-24","2",0
+"Male","35-44","3",27.1
+"Female","55-64","1 (least deprived)",0
+"Female","16-24","3",0
+"Male","45-54","5 (most deprived)",9.8
+"Female","25-34","4",0.7
+"Female","25-34","5 (most deprived)",0.9
+"Male","75+","2",0
+"Male","45-54","5 (most deprived)",18.5
+"Male","65-74","2",7.5
+"Female","45-54","5 (most deprived)",1.1
+"Male","65-74","5 (most deprived)",0
+"Female","55-64","1 (least deprived)",22
+"Male","65-74","3",23.8
+"Male","45-54","3",35
+"Female","45-54","1 (least deprived)",0
+"Female","65-74","4",0
+"Female","35-44","5 (most deprived)",6.8
+"Female","25-34","5 (most deprived)",0
+"Female","55-64","2",0
+"Male","45-54","3",25.4
+"Male","55-64","5 (most deprived)",4.5
+"Female","45-54","4",1.1
+"Female","45-54","1 (least deprived)",0.8
+"Male","25-34","5 (most deprived)",6.6
+"Male","45-54","5 (most deprived)",11.2
+"Male","45-54","5 (most deprived)",140
+"Female","65-74","4",0
+"Female","45-54","4",0.5
+"Male","45-54","1 (least deprived)",19.9
+"Female","35-44","5 (most deprived)",4.9
+"Female","65-74","2",7.5
+"Male","75+","3",9
+"Female","35-44","5 (most deprived)",7.3
+"Male","75+","2",1.7
+"Male","35-44","1 (least deprived)",8.7
+"Male","75+","3",44.5
+"Male","45-54","3",6.3
+"Male","75+","2",0
+"Female","35-44","1 (least deprived)",0
+"Male","45-54","4",3.8
+"Female","25-34","1 (least deprived)",0.1
+"Female","55-64","3",35.2
+"Female","75+","3",0
+"Female","25-34","3",0.2
+"Male","35-44","4",3.2
+"Female","65-74","5 (most deprived)",9.3
+"Male","35-44","2",56
+"Male","45-54","3",10
+"Male","55-64","4",10.8
+"Male","45-54","4",8.2
+"Female","55-64","3",0
+"Male","65-74","2",9.3
+"Male","25-34","4",1.2
+"Male","16-24","4",5.5
+"Male","45-54","4",29.6
+"Female","25-34","1 (least deprived)",0
+"Female","65-74","3",43.5
+"Female","55-64","2",0
+"Female","25-34","3",21.2
+"Female","45-54","5 (most deprived)",17.2
+"Female","35-44","2",5.1
+"Female","55-64","1 (least deprived)",15
+"Female","45-54","4",10.9
+"Female","65-74","3",0
+"Male","45-54","4",52
+"Female","45-54","2",10.5
+"Female","65-74","4",0.8
+"Female","35-44","1 (least deprived)",0.9
+"Male","35-44","2",2.7
+"Female","35-44","1 (least deprived)",21
+"Female","65-74","3",0.1
+"Male","45-54","2",21.4
+"Female","35-44","4",16.5
+"Female","25-34","2",1.8
+"Female","55-64","1 (least deprived)",22
+"Male","35-44","4",30.5
+"Male","65-74","4",0.5
+"Female","55-64","5 (most deprived)",0.1
+"Male","65-74","3",3
+"Male","25-34","4",1.5
+"Female","35-44","2",1.7
+"Female","45-54","3",7.1
+"Male","75+","4",0.2
+"Male","16-24","4",3.2
+"Male","45-54","3",15.5
+"Male","35-44","3",5
+"Female","25-34","3",11.5
+"Female","25-34","2",0.2
+"Female","75+","5 (most deprived)",0
+"Female","35-44","4",1.1
+"Female","65-74","1 (least deprived)",6.2
+"Female","55-64","2",14
+"Male","35-44","4",34.5
+"Female","25-34","5 (most deprived)",6.5
+"Female","25-34","5 (most deprived)",0.7
+"Female","55-64","1 (least deprived)",0.1
+"Male","55-64","1 (least deprived)",15
+"Male","35-44","4",0.3
+"Male","55-64","5 (most deprived)",2.9
+"Female","65-74","1 (least deprived)",10.9
+"Female","16-24","3",0.5
+"Male","55-64","2",55.5
+"Female","45-54","4",28
+"Female","55-64","3",0.1
+"Female","65-74","4",0
+"Female","35-44","4",5.6
+"Male","75+","5 (most deprived)",0
+"Male","35-44","3",0
+"Female","45-54","3",0.6
+"Female","55-64","1 (least deprived)",7.7
+"Male","65-74","5 (most deprived)",10.6
+"Male","35-44","2",15.3
+"Male","55-64","3",1.8
+"Male","45-54","4",12.4
+"Male","55-64","2",0
+"Male","55-64","1 (least deprived)",7.5
+"Female","45-54","4",0
+"Male","16-24","2",4.4
+"Male","25-34","4",3.7
+"Male","45-54","2",81.2
+"Male","75+","3",0
+"Male","35-44","2",3.2
+"Female","65-74","4",0.4
+"Male","65-74","4",6
+"Female","55-64","3",13
+"Female","65-74","5 (most deprived)",0
+"Female","65-74","2",0
+"Female","25-34","5 (most deprived)",4.5
+"Female","35-44","1 (least deprived)",10.1
+"Female","35-44","4",1
+"Female","25-34","4",0.7
+"Female","35-44","1 (least deprived)",0.1
+"Female","35-44","3",0.3
+"Female","35-44","5 (most deprived)",0
+"Male","45-54","1 (least deprived)",8
+"Female","55-64","5 (most deprived)",10.3
+"Male","55-64","5 (most deprived)",71.6
+"Male","45-54","5 (most deprived)",25.5
+"Male","65-74","4",3
+"Male","55-64","2",6
+"Female","16-24","2",6.1
+"Male","35-44","4",2.2
+"Male","45-54","3",20.1
+"Male","25-34","4",1.2
+"Female","45-54","1 (least deprived)",3.1
+"Male","65-74","4",19.3
+"Female","65-74","3",0
+"Male","45-54","5 (most deprived)",31.5
+"Female","35-44","1 (least deprived)",0.1
+"Male","75+","5 (most deprived)",14.4
+"Male","45-54","4",22.5
+"Female","45-54","3",0.5
+"Female","65-74","5 (most deprived)",0.1
+"Male","65-74","4",3
+"Female","55-64","3",2.2
+"Female","55-64","3",0.1
+"Female","65-74","2",2.7
+"Female","75+","1 (least deprived)",5.3
+"Female","45-54","3",9
+"Female","45-54","2",3.6
+"Female","55-64","5 (most deprived)",0
+"Male","55-64","5 (most deprived)",24
+"Male","65-74","2",0.1
+"Female","16-24","4",0
+"Female","16-24","5 (most deprived)",21
+"Male","25-34","4",18.9
+"Female","55-64","3",7.5
+"Female","25-34","3",12.8
+"Female","75+","2",0.5
+"Male","45-54","1 (least deprived)",31.4
+"Male","35-44","4",0
+"Male","65-74","3",3
+"Female","55-64","3",18
+"Male","55-64","4",32.1
+"Female","55-64","2",33
+"Female","65-74","3",0.1
+"Female","35-44","5 (most deprived)",0.1
+"Male","25-34","4",0.1
+"Female","45-54","5 (most deprived)",0
+"Female","65-74","1 (least deprived)",0
+"Female","25-34","5 (most deprived)",9.5
+"Female","16-24","1 (least deprived)",4.3
+"Female","75+","4",0
+"Male","65-74","3",7.1
+"Male","45-54","5 (most deprived)",1.2
+"Female","75+","2",7.5
+"Female","25-34","5 (most deprived)",37.5
+"Female","75+","1 (least deprived)",19.2
+"Female","65-74","3",8.8
+"Male","55-64","3",19.2
+"Female","75+","3",0
+"Female","65-74","3",0
+"Female","35-44","2",0.2
+"Female","75+","3",2.3
+"Female","25-34","3",16.1
+"Female","75+","2",0.1
+"Female","55-64","1 (least deprived)",23.6
+"Male","65-74","4",27.8
+"Female","75+","4",0
+"Male","25-34","2",0.2
+"Female","55-64","1 (least deprived)",6.3
+"Male","16-24","3",7.5
+"Female","16-24","5 (most deprived)",0.2
+"Male","45-54","4",15
+"Female","45-54","1 (least deprived)",9
+"Female","35-44","3",0
+"Female","35-44","5 (most deprived)",0
+"Female","45-54","3",0
+"Female","16-24","4",16.5
+"Female","25-34","3",1.5
+"Male","75+","4",0.1
+"Male","55-64","1 (least deprived)",7.1
+"Female","55-64","4",57.9
+"Male","75+","4",12.1
+"Male","45-54","2",0.6
+"Male","55-64","4",20.3
+"Male","65-74","4",0.1
+"Male","55-64","3",18.8
+"Female","75+","3",2.3
+"Female","16-24","1 (least deprived)",4.3
+"Male","45-54","4",23.5
+"Male","75+","3",0.1
+"Female","35-44","2",0
+"Male","45-54","4",3.8
+"Female","35-44","3",18
+"Female","25-34","2",15.4
+"Male","45-54","5 (most deprived)",4.3
+"Male","65-74","4",0.1
+"Male","75+","4",13.5
+"Female","16-24","5 (most deprived)",1.2
+"Male","25-34","1 (least deprived)",10.5
+"Male","16-24","5 (most deprived)",0.1
+"Female","55-64","2",18.8
+"Female","75+","1 (least deprived)",0
+"Female","65-74","5 (most deprived)",7.4
+"Female","45-54","5 (most deprived)",6.4
+"Female","45-54","3",0.7
+"Female","45-54","4",0.1
+"Female","16-24","2",0.2
+"Male","25-34","2",41.2
+"Male","45-54","2",6.3
+"Female","35-44","2",15.7
+"Female","55-64","4",11.3
+"Female","16-24","4",16.5
+"Male","65-74","3",0
+"Male","35-44","1 (least deprived)",2.7
+"Male","75+","2",0
+"Female","45-54","1 (least deprived)",3.5
+"Male","55-64","1 (least deprived)",23.8
+"Female","35-44","1 (least deprived)",11.3
+"Male","65-74","1 (least deprived)",3.1
+"Female","45-54","1 (least deprived)",0
+"Female","45-54","4",0
+"Female","45-54","5 (most deprived)",1
+"Female","55-64","1 (least deprived)",22.5
+"Female","65-74","2",4.2
+"Female","45-54","3",9.8
+"Female","65-74","3",0.1
+"Male","55-64","1 (least deprived)",53
+"Male","75+","2",34
+"Male","16-24","3",0.8
+"Male","65-74","3",3.6
+"Male","25-34","2",3
+"Male","55-64","1 (least deprived)",33.5
+"Female","55-64","1 (least deprived)",15.8
+"Male","65-74","5 (most deprived)",6
+"Female","45-54","2",1.2
+"Female","35-44","5 (most deprived)",5.2
+"Female","55-64","5 (most deprived)",25.5
+"Female","55-64","1 (least deprived)",10.5
+"Female","25-34","5 (most deprived)",0.3
+"Male","45-54","5 (most deprived)",31.5
+"Male","45-54","5 (most deprived)",6.5
+"Male","25-34","1 (least deprived)",2.8
+"Male","35-44","1 (least deprived)",2.2
+"Male","16-24","2",19.2
+"Male","16-24","3",10
+"Male","35-44","3",4.6
+"Female","35-44","3",0.3
+"Female","55-64","3",0
+"Male","75+","1 (least deprived)",0
+"Male","45-54","2",9.4
+"Female","55-64","3",7.5
+"Female","35-44","1 (least deprived)",15
+"Female","55-64","2",9.2
+"Female","75+","2",0.1
+"Male","75+","1 (least deprived)",51.2
+"Female","35-44","2",3
+"Female","55-64","1 (least deprived)",17.5
+"Female","16-24","1 (least deprived)",4.2
+"Female","16-24","1 (least deprived)",18.4
+"Male","35-44","4",51.1
+"Male","45-54","5 (most deprived)",0.6
+"Male","35-44","4",1.1
+"Female","16-24","4",16.5
+"Female","16-24","1 (least deprived)",55
+"Female","55-64","4",5.2
+"Female","55-64","3",0
+"Female","75+","3",0
+"Male","45-54","2",15
+"Female","16-24","1 (least deprived)",13.8
+"Male","45-54","4",25.5
+"Male","65-74","1 (least deprived)",64.3
+"Male","55-64","4",0.3
+"Female","65-74","5 (most deprived)",2.2
+"Male","55-64","5 (most deprived)",21.5
+"Female","25-34","1 (least deprived)",0
+"Male","35-44","4",0
+"Female","65-74","2",31.5
+"Male","45-54","4",15.2
+"Female","75+","4",0.1
+"Female","75+","5 (most deprived)",0
+"Female","35-44","1 (least deprived)",7.6
+"Male","25-34","5 (most deprived)",4.3
+"Female","45-54","5 (most deprived)",0
+"Male","35-44","5 (most deprived)",0.6
+"Female","75+","5 (most deprived)",0
+"Male","35-44","2",8.2
+"Female","25-34","3",9.5
+"Female","25-34","2",10
+"Male","55-64","1 (least deprived)",1
+"Male","65-74","3",0
+"Male","75+","1 (least deprived)",15.8
+"Female","35-44","4",5.1
+"Female","25-34","3",2.4
+"Female","25-34","5 (most deprived)",1.1
+"Female","65-74","4",0
+"Female","35-44","2",0.1
+"Male","16-24","1 (least deprived)",3.4
+"Female","45-54","4",0
+"Female","25-34","3",0
+"Female","65-74","2",0.1
+"Male","55-64","2",5.1
+"Female","65-74","3",0.1
+"Male","45-54","5 (most deprived)",3.4
+"Female","25-34","1 (least deprived)",0.1
+"Male","35-44","2",1.9
+"Female","16-24","5 (most deprived)",1.7
+"Female","55-64","4",0
+"Male","55-64","1 (least deprived)",45.5
+"Female","25-34","3",0
+"Female","55-64","3",0.3
+"Female","75+","2",0
+"Female","25-34","4",21.3
+"Male","75+","2",0
+"Female","35-44","2",6.2
+"Male","65-74","2",43.5
+"Male","55-64","1 (least deprived)",8.3
+"Female","35-44","3",22.9
+"Female","55-64","1 (least deprived)",7.7
+"Female","65-74","5 (most deprived)",0
+"Male","45-54","3",1.1
+"Female","65-74","2",1.5
+"Male","25-34","3",46.5
+"Male","75+","3",11.5
+"Female","45-54","4",16.2
+"Female","35-44","5 (most deprived)",12
+"Male","25-34","3",23.9
+"Female","35-44","2",5.6
+"Male","35-44","4",0
+"Male","65-74","5 (most deprived)",32.2
+"Female","65-74","5 (most deprived)",12
+"Male","25-34","3",0
+"Male","45-54","2",0
+"Female","35-44","1 (least deprived)",9.3
+"Female","55-64","5 (most deprived)",24
+"Male","25-34","2",7.5
+"Male","45-54","4",0.3
+"Male","16-24","2",9.5
+"Female","35-44","1 (least deprived)",0.7
+"Male","65-74","5 (most deprived)",12
+"Female","55-64","1 (least deprived)",7
+"Female","75+","4",1
+"Female","55-64","2",1.1
+"Female","35-44","3",0.8
+"Female","35-44","3",0.8
+"Female","65-74","3",8.8
+"Female","16-24","3",0
+"Male","35-44","5 (most deprived)",0
+"Male","75+","3",0
+"Female","25-34","1 (least deprived)",0
+"Male","65-74","4",0
+"Male","55-64","5 (most deprived)",0
+"Male","16-24","3",0
+"Female","45-54","1 (least deprived)",46.5
+"Female","16-24","1 (least deprived)",4.5
+"Female","55-64","3",0
+"Female","55-64","3",21
+"Female","55-64","5 (most deprived)",0
+"Female","45-54","3",0
+"Male","65-74","5 (most deprived)",12
+"Female","35-44","1 (least deprived)",15
+"Male","65-74","5 (most deprived)",6
+"Female","65-74","4",7.6
+"Male","45-54","5 (most deprived)",59
+"Female","75+","2",6
+"Female","75+","2",0.1
+"Male","55-64","1 (least deprived)",22.1
+"Female","35-44","1 (least deprived)",0.1
+"Male","35-44","1 (least deprived)",9.2
+"Female","65-74","2",7.5
+"Female","45-54","3",0
+"Female","55-64","5 (most deprived)",2.9
+"Female","25-34","2",4.3
+"Female","45-54","3",9.8
+"Female","55-64","5 (most deprived)",84.6
+"Female","25-34","3",2.9
+"Female","35-44","2",2.4
+"Female","25-34","1 (least deprived)",0
+"Female","55-64","4",0.1
+"Male","35-44","5 (most deprived)",20.2
+"Female","55-64","5 (most deprived)",0
+"Male","65-74","4",6
+"Male","45-54","4",22.6
+"Female","25-34","1 (least deprived)",9
+"Female","25-34","2",1.9
+"Female","35-44","2",2.2
+"Female","25-34","3",14.2
+"Female","35-44","3",0
+"Male","55-64","2",9.7
+"Male","55-64","2",6.5
+"Male","75+","4",0
+"Male","75+","1 (least deprived)",31.6
+"Male","65-74","1 (least deprived)",42.2
+"Female","65-74","2",8
+"Female","55-64","2",13.6
+"Male","16-24","1 (least deprived)",0
+"Male","55-64","2",36
+"Male","75+","2",29.5
+"Female","25-34","3",0
+"Female","55-64","4",9
+"Male","75+","2",12
+"Female","16-24","2",6
+"Male","65-74","1 (least deprived)",0.6
+"Female","55-64","3",22.5
+"Male","45-54","4",84.5
+"Female","45-54","4",0
+"Female","65-74","3",18.1
+"Male","35-44","4",0
+"Female","65-74","1 (least deprived)",3.5
+"Male","25-34","1 (least deprived)",36.8
+"Female","55-64","4",3.2
+"Female","45-54","5 (most deprived)",1.1
+"Female","75+","5 (most deprived)",0
+"Male","75+","2",12.4
+"Male","35-44","4",0.3
+"Male","35-44","4",6.3
+"Female","45-54","3",0.4
+"Female","55-64","4",0.5
+"Male","55-64","4",55.5
+"Female","25-34","5 (most deprived)",0
+"Female","25-34","2",0.2
+"Female","25-34","5 (most deprived)",1.9
+"Female","35-44","3",2.2
+"Female","75+","2",0
+"Female","65-74","2",0.1
+"Female","75+","3",0
+"Male","45-54","5 (most deprived)",0
+"Female","75+","3",0
+"Male","65-74","3",0.5
+"Male","75+","3",0.6
+"Female","55-64","3",35.2
+"Female","65-74","3",13.6
+"Female","45-54","2",1.1
+"Male","65-74","5 (most deprived)",0
+"Female","16-24","2",3.4
+"Female","65-74","2",7.5
+"Male","25-34","1 (least deprived)",29.5
+"Male","35-44","2",38.5
+"Female","35-44","2",5.6
+"Female","16-24","2",0
+"Female","45-54","3",0.6
+"Male","65-74","3",9.3
+"Female","25-34","4",0.1
+"Male","55-64","5 (most deprived)",24
+"Male","55-64","4",3.4
+"Male","45-54","1 (least deprived)",14.4
+"Female","75+","1 (least deprived)",0
+"Female","75+","2",10.5
+"Female","35-44","2",0.1
+"Male","65-74","5 (most deprived)",33
+"Female","35-44","2",17
+"Female","35-44","1 (least deprived)",0
+"Female","35-44","3",0.2
+"Male","45-54","3",25.4
+"Male","55-64","2",6.5
+"Male","45-54","3",0
+"Female","75+","4",13.7
+"Female","35-44","2",43.3
+"Female","35-44","3",2
+"Male","75+","2",0
+"Male","55-64","3",51.8
+"Female","25-34","3",9.5
+"Female","75+","3",10.5
+"Male","16-24","2",20.7
+"Female","55-64","3",1.4
+"Female","55-64","1 (least deprived)",8.4
+"Female","25-34","2",0.2
+"Female","35-44","2",0
+"Male","25-34","2",20
+"Female","45-54","2",27
+"Male","25-34","3",10.5
+"Female","55-64","1 (least deprived)",6.7
+"Male","45-54","4",0
+"Male","45-54","4",39.5
+"Male","65-74","2",0
+"Male","25-34","1 (least deprived)",6.4
+"Female","25-34","3",0.3
+"Male","35-44","4",0
+"Male","55-64","2",0
+"Male","55-64","1 (least deprived)",38.6
+"Male","45-54","4",22.6
+"Female","35-44","5 (most deprived)",0
+"Male","65-74","5 (most deprived)",14.5
+"Male","45-54","2",7.7
+"Female","75+","2",0
+"Male","55-64","2",21.5
+"Male","16-24","3",4.5
+"Male","25-34","2",28
+"Male","55-64","2",6
+"Female","55-64","2",3.1
+"Female","25-34","1 (least deprived)",14.8
+"Male","55-64","1 (least deprived)",51.5
+"Male","55-64","1 (least deprived)",3
+"Female","65-74","5 (most deprived)",0
+"Male","75+","2",16.8
+"Male","65-74","4",0
+"Male","45-54","3",12.8
+"Female","16-24","2",9.5
+"Female","65-74","2",56
+"Female","65-74","4",0
+"Female","55-64","4",11.2
+"Female","55-64","3",0
+"Female","45-54","3",6
+"Male","45-54","4",10.8
+"Male","55-64","3",0
+"Female","65-74","5 (most deprived)",0
+"Female","35-44","1 (least deprived)",0
+"Female","65-74","2",1.6
+"Female","65-74","4",0.1
+"Male","65-74","3",0
+"Male","45-54","1 (least deprived)",1.8
+"Male","55-64","3",0.8
+"Female","55-64","5 (most deprived)",16.8
+"Male","65-74","5 (most deprived)",1.5
+"Female","45-54","4",3.5
+"Female","25-34","5 (most deprived)",0
+"Female","16-24","2",4.1
+"Male","35-44","1 (least deprived)",51.5
+"Male","45-54","4",36
+"Female","55-64","4",10.1
+"Female","55-64","4",25.9
+"Male","75+","3",0.1
+"Male","65-74","1 (least deprived)",10.2
+"Female","65-74","4",0
+"Male","25-34","5 (most deprived)",4.3
+"Female","25-34","5 (most deprived)",0.5
+"Female","55-64","2",17
+"Male","35-44","3",6
+"Female","55-64","3",6.8
+"Male","16-24","1 (least deprived)",26.1
+"Female","25-34","2",1.4
+"Female","25-34","1 (least deprived)",0
+"Female","55-64","3",0.2
+"Male","16-24","4",0
+"Male","55-64","1 (least deprived)",22
+"Male","55-64","1 (least deprived)",6.1
+"Female","45-54","5 (most deprived)",0
+"Female","35-44","3",1.6
+"Female","16-24","4",0
+"Female","65-74","4",0
+"Female","55-64","3",1.6
+"Male","16-24","1 (least deprived)",4.3
+"Male","55-64","2",36
+"Female","75+","2",0
+"Female","45-54","1 (least deprived)",8.1
+"Female","55-64","1 (least deprived)",7.7
+"Female","55-64","4",26.3
+"Female","45-54","1 (least deprived)",3.5
+"Female","45-54","4",3.5
+"Female","55-64","1 (least deprived)",39
+"Female","35-44","3",9.5
+"Female","65-74","1 (least deprived)",9.8
+"Male","55-64","1 (least deprived)",1.2
+"Female","75+","1 (least deprived)",0.1
+"Male","35-44","4",0
+"Male","25-34","2",1.3
+"Female","25-34","3",1.8
+"Female","35-44","4",16.6
+"Female","65-74","1 (least deprived)",0
+"Female","16-24","3",15
+"Male","35-44","2",0
+"Male","65-74","1 (least deprived)",11.2
+"Female","55-64","3",1.4
+"Female","35-44","4",0.6
+"Female","75+","5 (most deprived)",0
+"Female","45-54","2",0
+"Female","55-64","5 (most deprived)",3.8
+"Male","25-34","4",5
+"Male","75+","5 (most deprived)",1.6
+"Male","65-74","2",15
+"Female","45-54","1 (least deprived)",8.5
+"Female","75+","2",0
+"Male","65-74","4",0
+"Male","55-64","4",32.1
+"Female","75+","2",0.3
+"Male","55-64","1 (least deprived)",25.8
+"Female","55-64","1 (least deprived)",22.5
+"Male","16-24","1 (least deprived)",2.6
+"Female","75+","1 (least deprived)",15.5
+"Female","45-54","1 (least deprived)",1.5
+"Male","35-44","3",0.4
+"Female","65-74","1 (least deprived)",0
+"Male","75+","4",0.1
+"Male","65-74","5 (most deprived)",7
+"Female","35-44","2",6.2
+"Male","65-74","5 (most deprived)",1
+"Female","65-74","5 (most deprived)",0
+"Male","65-74","4",12
+"Female","45-54","2",3.6
+"Female","45-54","4",1.8
+"Female","75+","4",0
+"Male","35-44","4",0
+"Female","25-34","2",22.7
+"Female","75+","1 (least deprived)",0
+"Female","65-74","3",7
+"Female","55-64","2",1.5
+"Female","35-44","4",0.6
+"Female","35-44","5 (most deprived)",0
+"Female","75+","2",1
+"Female","45-54","4",5.1
+"Female","55-64","3",10.9
+"Female","35-44","2",15.7
+"Female","65-74","2",0
+"Male","75+","3",4.5
+"Female","45-54","4",28
+"Female","45-54","2",0
+"Female","35-44","4",1.8
+"Male","65-74","1 (least deprived)",84.2
+"Female","45-54","1 (least deprived)",31.6
+"Male","35-44","2",1.1
+"Female","55-64","3",2.7
+"Female","35-44","3",22.9
+"Female","65-74","3",0
+"Female","75+","4",0
+"Male","65-74","4",18.1
+"Female","55-64","5 (most deprived)",0
+"Female","55-64","1 (least deprived)",2.6
+"Female","25-34","1 (least deprived)",2.2
+"Female","45-54","1 (least deprived)",6
+"Male","25-34","1 (least deprived)",4.5
+"Female","55-64","5 (most deprived)",0
+"Male","45-54","5 (most deprived)",18.5
+"Female","65-74","3",12
+"Male","65-74","1 (least deprived)",12
+"Female","35-44","4",137.5
+"Female","25-34","3",2.9
+"Male","25-34","5 (most deprived)",2.1
+"Female","35-44","5 (most deprived)",3
+"Female","65-74","3",7
+"Female","65-74","2",13.5
+"Female","55-64","3",2.7
+"Male","55-64","1 (least deprived)",23.2
+"Male","25-34","4",1.3
+"Male","65-74","3",87.4
+"Male","75+","4",0
+"Male","75+","1 (least deprived)",3
+"Male","65-74","3",28.5
+"Male","35-44","3",0
+"Male","16-24","1 (least deprived)",39
+"Female","55-64","3",22.5
+"Female","75+","2",2.3
+"Male","55-64","5 (most deprived)",3.8
+"Female","25-34","4",0
+"Female","25-34","3",18
+"Male","45-54","2",280
+"Female","25-34","4",0
+"Male","55-64","4",10.8
+"Male","45-54","2",42
+"Male","25-34","5 (most deprived)",15
+"Female","16-24","1 (least deprived)",4.5
+"Female","55-64","5 (most deprived)",0
+"Female","65-74","3",0
+"Male","35-44","4",0
+"Male","25-34","3",0
+"Female","25-34","3",23.8
+"Male","35-44","4",6.1
+"Male","55-64","5 (most deprived)",21.7
+"Female","45-54","2",0.9
+"Female","75+","1 (least deprived)",0
+"Female","65-74","5 (most deprived)",0
+"Female","45-54","5 (most deprived)",13.9
+"Female","45-54","2",6
+"Male","35-44","1 (least deprived)",18
+"Female","35-44","4",0.6
+"Male","35-44","3",2.8
+"Female","35-44","5 (most deprived)",0
+"Male","45-54","2",81.2
+"Male","55-64","5 (most deprived)",4.5
+"Male","45-54","1 (least deprived)",37.1
+"Male","45-54","5 (most deprived)",1
+"Female","65-74","4",0
+"Female","65-74","1 (least deprived)",0
+"Female","55-64","4",5.3
+"Female","35-44","4",9.2
+"Female","55-64","5 (most deprived)",1.9
+"Male","75+","2",10.5
+"Male","65-74","3",18.5
+"Male","65-74","5 (most deprived)",0
+"Male","65-74","5 (most deprived)",0
+"Male","45-54","2",0
+"Male","75+","3",0
+"Male","65-74","3",31.8
+"Male","45-54","3",0
+"Female","35-44","3",13.6
+"Female","25-34","2",0
+"Female","25-34","3",0.2
+"Male","16-24","4",28.6
+"Female","25-34","3",0
+"Male","55-64","3",0.3
+"Male","55-64","4",46.8
+"Female","35-44","3",1
+"Male","55-64","3",4.6
+"Female","55-64","5 (most deprived)",0
+"Male","75+","4",0
+"Female","55-64","3",0
+"Female","16-24","2",4.1
+"Female","55-64","4",0
+"Female","16-24","3",11.8
+"Female","65-74","1 (least deprived)",7.1
+"Male","45-54","3",0
+"Female","55-64","3",0.5
+"Female","16-24","4",24
+"Male","65-74","2",99.5
+"Female","55-64","2",1.4
+"Female","55-64","3",6.2
+"Male","25-34","2",0.1
+"Male","35-44","3",0
+"Female","65-74","5 (most deprived)",0.3
+"Male","65-74","5 (most deprived)",33
+"Female","35-44","3",40.4
+"Male","75+","5 (most deprived)",26.6
+"Male","35-44","3",243.2
+"Male","16-24","1 (least deprived)",4.3
+"Male","35-44","5 (most deprived)",4
+"Male","45-54","2",36.2
+"Male","65-74","2",43.5
+"Male","25-34","3",0
+"Female","35-44","3",3.8
+"Male","45-54","5 (most deprived)",0.1
+"Female","65-74","3",0
+"Male","55-64","4",0.3
+"Male","75+","4",0
+"Male","25-34","3",0
+"Female","55-64","2",2.2
+"Female","25-34","3",5
+"Female","75+","2",4.5
+"Male","65-74","4",3.2
+"Female","65-74","3",2.2
+"Male","65-74","4",0
+"Male","55-64","1 (least deprived)",15
+"Female","35-44","2",6.8
+"Male","75+","1 (least deprived)",16.6
+"Male","55-64","4",10.8
+"Male","25-34","3",0.3
+"Female","45-54","3",31.5
+"Male","75+","1 (least deprived)",12.4
+"Female","25-34","2",7
+"Male","35-44","5 (most deprived)",27
+"Male","65-74","3",0
+"Male","75+","2",1.7
+"Male","45-54","1 (least deprived)",48
+"Female","16-24","1 (least deprived)",2
+"Female","35-44","3",25.2
+"Female","16-24","2",0
+"Female","55-64","5 (most deprived)",0
+"Female","75+","4",3.4
+"Female","55-64","2",0
+"Male","55-64","1 (least deprived)",12.5
+"Male","35-44","2",1.1
+"Female","75+","2",0
+"Female","45-54","5 (most deprived)",0
+"Female","65-74","1 (least deprived)",18.8
+"Female","16-24","3",3
+"Female","65-74","1 (least deprived)",3
+"Male","35-44","3",10.3
+"Female","65-74","2",3.1
+"Female","45-54","4",0
+"Male","55-64","3",0
+"Female","65-74","1 (least deprived)",0.1
+"Female","75+","5 (most deprived)",0
+"Male","35-44","2",21.5
+"Female","45-54","5 (most deprived)",9.5
+"Male","55-64","2",21.5
+"Female","35-44","4",0
+"Male","45-54","1 (least deprived)",42
+"Male","35-44","3",31.5
+"Male","25-34","5 (most deprived)",0.3
+"Female","65-74","4",0.2
+"Female","35-44","1 (least deprived)",16
+"Female","65-74","2",1.6
+"Male","35-44","3",19.4
+"Female","65-74","4",0
+"Female","25-34","5 (most deprived)",1.1
+"Female","45-54","5 (most deprived)",0.1
+"Female","65-74","3",0.7
+"Male","35-44","4",6.8
+"Male","25-34","2",41.2
+"Female","35-44","2",17
+"Male","65-74","3",20.8
+"Female","25-34","2",0.2
+"Female","35-44","4",0
+"Female","35-44","4",1.2
+"Female","45-54","2",6
+"Female","55-64","4",11.2
+"Male","16-24","2",52.3
+"Female","45-54","5 (most deprived)",28.3
+"Male","25-34","4",0
+"Female","45-54","2",8.2
+"Female","45-54","1 (least deprived)",25.5
+"Male","25-34","2",6
+"Male","75+","3",10.4
+"Female","55-64","2",77
+"Female","65-74","5 (most deprived)",0
+"Male","16-24","3",0
+"Female","16-24","3",0.2
+"Male","45-54","3",2.2
+"Male","55-64","4",30.4
+"Male","75+","5 (most deprived)",0
+"Male","45-54","4",0.7
+"Male","45-54","4",0
+"Female","35-44","2",4.2
+"Female","55-64","5 (most deprived)",0.1
+"Male","65-74","1 (least deprived)",10.5
+"Female","55-64","3",10.5
+"Female","45-54","1 (least deprived)",9
+"Male","25-34","2",0.1
+"Male","45-54","3",1.7
+"Male","45-54","2",4.8
+"Female","45-54","3",14
+"Female","55-64","1 (least deprived)",8
+"Female","55-64","5 (most deprived)",0.1
+"Male","65-74","2",10.6
+"Male","65-74","3",15.2
+"Male","55-64","4",6
+"Male","45-54","5 (most deprived)",1
+"Female","25-34","5 (most deprived)",7.5
+"Male","65-74","1 (least deprived)",0
+"Female","65-74","5 (most deprived)",0
+"Female","45-54","1 (least deprived)",32.2
+"Female","45-54","3",15.1
+"Male","75+","3",0
+"Male","65-74","2",30.6
+"Female","35-44","4",5.5
+"Female","25-34","5 (most deprived)",10.6
+"Male","16-24","2",0
+"Female","65-74","5 (most deprived)",10.5
+"Male","65-74","1 (least deprived)",13
+"Female","25-34","3",2.2
+"Female","45-54","1 (least deprived)",15.8
+"Male","65-74","2",7
+"Female","45-54","3",1.9
+"Female","55-64","5 (most deprived)",84.6
+"Female","25-34","2",14
+"Female","45-54","5 (most deprived)",0
+"Male","45-54","1 (least deprived)",42
+"Female","35-44","1 (least deprived)",0.1
+"Male","75+","4",0.1
+"Male","45-54","2",0.4
+"Female","55-64","2",7.1
+"Female","55-64","5 (most deprived)",4.5
+"Male","65-74","3",0
+"Female","25-34","2",6
+"Male","45-54","1 (least deprived)",6.6
+"Female","75+","2",0.3
+"Male","45-54","1 (least deprived)",17.6
+"Female","45-54","2",0.9
+"Female","25-34","1 (least deprived)",5.6
+"Male","65-74","1 (least deprived)",29.2
+"Female","65-74","1 (least deprived)",0
+"Male","55-64","5 (most deprived)",4.7
+"Female","75+","2",0
+"Male","45-54","5 (most deprived)",6
+"Male","55-64","5 (most deprived)",70
+"Female","45-54","1 (least deprived)",0
+"Female","75+","1 (least deprived)",0
+"Female","25-34","2",3
+"Male","55-64","4",0
+"Male","55-64","2",18.5
+"Female","55-64","5 (most deprived)",0
+"Female","25-34","5 (most deprived)",5.2
+"Female","35-44","4",1.2
+"Female","35-44","4",0
+"Female","35-44","4",0.6
+"Male","55-64","5 (most deprived)",3.8
+"Male","55-64","4",0.2
+"Male","16-24","3",31.5
+"Male","25-34","3",0.1
+"Female","35-44","3",3.8
+"Male","75+","4",0
+"Female","75+","3",3.5
+"Male","16-24","3",3.7
+"Female","65-74","4",14.1
+"Male","55-64","1 (least deprived)",0.4
+"Female","25-34","1 (least deprived)",10.5
+"Male","25-34","5 (most deprived)",0
+"Female","75+","5 (most deprived)",7
+"Male","25-34","2",12.7
+"Male","65-74","3",0.5
+"Male","75+","2",16.8
+"Male","45-54","2",19.7
+"Male","65-74","4",5.6
+"Female","35-44","3",9
+"Female","35-44","3",0
+"Male","45-54","3",0.1
+"Male","55-64","5 (most deprived)",0
+"Female","55-64","3",6.2
+"Female","35-44","3",0.3
+"Female","75+","2",0
+"Female","35-44","3",2
+"Male","35-44","2",0
+"Male","45-54","3",0.1
+"Female","55-64","1 (least deprived)",0
+"Female","25-34","3",0
+"Female","45-54","4",8.3
+"Male","45-54","5 (most deprived)",0.6
+"Female","35-44","3",0
+"Female","55-64","2",13.8
+"Female","65-74","4",0
+"Female","25-34","3",3
+"Female","45-54","5 (most deprived)",0
+"Male","75+","2",24.1
+"Female","45-54","5 (most deprived)",17.7
+"Male","35-44","5 (most deprived)",20.2
+"Female","45-54","3",64.5
+"Male","55-64","1 (least deprived)",0.4
+"Male","16-24","3",10
+"Female","65-74","1 (least deprived)",0.1
+"Female","35-44","1 (least deprived)",3.7
+"Male","45-54","4",15
+"Female","55-64","1 (least deprived)",7.7
+"Female","35-44","4",0
+"Female","55-64","2",1.1
+"Female","75+","5 (most deprived)",0.1
+"Female","65-74","2",0
+"Female","45-54","4",19.5
+"Female","35-44","2",0
+"Female","25-34","3",2.9
+"Male","25-34","3",26.8
+"Female","55-64","1 (least deprived)",0
+"Male","65-74","4",0.1
+"Female","25-34","4",0
+"Male","75+","3",0
+"Female","35-44","4",6.7
+"Male","25-34","1 (least deprived)",3.1
+"Male","45-54","5 (most deprived)",0
+"Female","65-74","2",9
+"Male","65-74","5 (most deprived)",7.5
+"Female","65-74","3",6.2
+"Female","75+","3",0.1
+"Male","45-54","2",18.8
+"Female","65-74","3",0.1
+"Male","65-74","5 (most deprived)",0
+"Female","16-24","3",0
+"Female","55-64","5 (most deprived)",2.7
+"Female","16-24","1 (least deprived)",7.5
+"Female","55-64","5 (most deprived)",18.1
+"Female","35-44","3",0
+"Female","65-74","1 (least deprived)",0.7
+"Female","55-64","2",32.3
+"Female","55-64","3",22.2
+"Female","55-64","1 (least deprived)",22
+"Female","16-24","4",0
+"Female","45-54","2",3.7
+"Male","45-54","2",10.5
+"Male","35-44","5 (most deprived)",0.1
+"Female","35-44","3",0.1
+"Female","35-44","2",0
+"Female","25-34","2",3.9
+"Female","25-34","4",0
+"Male","16-24","4",27.8
+"Female","25-34","1 (least deprived)",36
+"Female","35-44","5 (most deprived)",0
+"Male","55-64","4",0.2
+"Female","55-64","5 (most deprived)",1.1
+"Female","45-54","3",1.6
+"Female","55-64","1 (least deprived)",49.5
+"Male","25-34","1 (least deprived)",36.8
+"Female","65-74","1 (least deprived)",0.8
+"Female","25-34","5 (most deprived)",1.1
+"Male","25-34","4",0
+"Female","65-74","4",0.8
+"Female","25-34","3",24.5
+"Female","55-64","4",0
+"Male","75+","4",3
+"Female","45-54","2",15.5
+"Female","45-54","1 (least deprived)",14.4
+"Female","25-34","1 (least deprived)",0.1
+"Male","65-74","1 (least deprived)",29.2
+"Male","65-74","2",12.8
+"Female","45-54","5 (most deprived)",3.9
+"Male","75+","2",34
+"Female","45-54","5 (most deprived)",24.5
+"Female","65-74","2",15.5
+"Male","55-64","3",0
+"Female","75+","1 (least deprived)",0.1
+"Female","25-34","4",2.9
+"Male","55-64","2",24.8
+"Female","65-74","1 (least deprived)",0.2
+"Male","45-54","4",33.8
+"Female","25-34","5 (most deprived)",0.4
+"Female","16-24","2",16.1
+"Female","35-44","1 (least deprived)",1.5
+"Female","55-64","3",22.7
+"Female","35-44","2",17
+"Female","75+","5 (most deprived)",0
+"Female","25-34","1 (least deprived)",0
+"Female","16-24","4",4.1
+"Female","45-54","1 (least deprived)",0.5
+"Male","55-64","4",0
+"Female","45-54","5 (most deprived)",11
+"Male","45-54","2",10.7
+"Female","35-44","4",0.7
+"Female","35-44","4",1.1
+"Female","45-54","3",0
+"Female","65-74","4",1.6
+"Female","75+","3",0
+"Male","16-24","4",2.3
+"Female","55-64","5 (most deprived)",6
+"Male","55-64","3",31.1
+"Male","16-24","3",3
+"Male","45-54","4",25.5
+"Female","55-64","5 (most deprived)",2.3
+"Male","16-24","4",5.5
+"Male","45-54","3",15
+"Female","35-44","3",25.2
+"Male","75+","4",0.2
+"Male","45-54","3",1.1
+"Male","75+","1 (least deprived)",31.6
+"Female","55-64","1 (least deprived)",10.5
+"Male","35-44","2",3
+"Female","65-74","1 (least deprived)",0
+"Female","55-64","1 (least deprived)",39.1
+"Male","75+","1 (least deprived)",31.6
+"Female","65-74","5 (most deprived)",0.1
+"Male","35-44","1 (least deprived)",19.1
+"Female","45-54","1 (least deprived)",10.7
+"Female","35-44","5 (most deprived)",3
+"Female","45-54","3",6.4
+"Male","65-74","3",0
+"Female","35-44","3",9.1
+"Female","45-54","3",0
+"Male","55-64","1 (least deprived)",21
+"Female","45-54","4",12.8
+"Male","75+","2",0
+"Male","35-44","4",0
+"Female","45-54","3",8.4
+"Male","65-74","2",0
+"Female","25-34","1 (least deprived)",0
+"Male","75+","2",4.8
+"Female","35-44","4",1.1
+"Female","45-54","2",1.2
+"Female","16-24","3",4.3
+"Female","65-74","5 (most deprived)",0
+"Male","16-24","2",9.2
+"Male","55-64","5 (most deprived)",0.1
+"Female","16-24","5 (most deprived)",4.3
+"Male","65-74","2",9
+"Female","45-54","1 (least deprived)",6.1
+"Female","25-34","5 (most deprived)",0.1
+"Male","55-64","4",0
+"Female","45-54","3",14
+"Male","35-44","5 (most deprived)",0
+"Female","45-54","5 (most deprived)",1.6
+"Female","45-54","4",0
+"Female","25-34","1 (least deprived)",9.4
+"Male","65-74","3",1.5
+"Female","75+","3",0
+"Male","75+","1 (least deprived)",8.6
+"Female","35-44","2",0
+"Male","55-64","2",21.5
+"Male","55-64","5 (most deprived)",13.5
+"Female","35-44","4",0.3
+"Female","25-34","3",0.6
+"Female","75+","3",0
+"Male","55-64","5 (most deprived)",13.5
+"Female","75+","2",1
+"Female","75+","4",5.2
+"Female","45-54","4",9
+"Male","65-74","4",5.6
+"Female","75+","5 (most deprived)",0.1
+"Male","35-44","4",7.1
+"Female","55-64","2",42.5
+"Female","55-64","3",0.2
+"Male","35-44","1 (least deprived)",8.7
+"Male","16-24","3",37.5
+"Female","55-64","1 (least deprived)",0
+"Female","55-64","2",5.5
+"Female","55-64","3",6.4
+"Male","16-24","1 (least deprived)",0.7
+"Female","75+","5 (most deprived)",0
+"Male","55-64","1 (least deprived)",30.4
+"Male","45-54","2",0
+"Female","25-34","5 (most deprived)",5
+"Female","45-54","2",4.5
+"Female","65-74","4",4.5
+"Male","45-54","1 (least deprived)",29.2
+"Female","25-34","3",0
+"Female","55-64","3",0.2
+"Male","55-64","1 (least deprived)",36
+"Male","45-54","3",0
+"Female","65-74","2",27.6
+"Male","65-74","2",19.5
+"Male","55-64","1 (least deprived)",15.2
+"Male","16-24","4",27.8
+"Female","55-64","4",1.7
+"Female","65-74","4",0
+"Male","65-74","1 (least deprived)",10.5
+"Male","16-24","4",3.3
+"Female","25-34","4",18.7
+"Male","45-54","1 (least deprived)",8.9
+"Female","55-64","4",22.2
+"Male","65-74","2",32.5
+"Male","65-74","3",34.5
+"Female","35-44","4",7.5
+"Male","65-74","1 (least deprived)",49
+"Female","75+","1 (least deprived)",2
+"Male","55-64","2",0
+"Male","55-64","2",0.9
+"Female","35-44","5 (most deprived)",0
+"Male","65-74","2",31.5
+"Female","65-74","2",22.5
+"Female","35-44","4",6.7
+"Female","45-54","5 (most deprived)",1
+"Female","75+","1 (least deprived)",0
+"Male","65-74","1 (least deprived)",2.3
+"Female","35-44","3",1.7
+"Female","45-54","4",5.5
+"Male","55-64","3",14.9
+"Female","45-54","3",12.8
+"Female","45-54","5 (most deprived)",1.1
+"Female","35-44","4",0.2
+"Male","35-44","1 (least deprived)",13.1
+"Male","65-74","2",0
+"Female","65-74","5 (most deprived)",21
+"Female","25-34","4",0
+"Female","75+","4",0
+"Female","35-44","1 (least deprived)",0.9
+"Female","65-74","5 (most deprived)",28
+"Female","45-54","5 (most deprived)",1.4
+"Female","45-54","3",0.6
+"Female","45-54","1 (least deprived)",0
+"Female","25-34","4",0
+"Female","25-34","5 (most deprived)",7.8
+"Female","25-34","5 (most deprived)",3.4
+"Female","65-74","1 (least deprived)",4.1
+"Female","55-64","5 (most deprived)",9
+"Female","65-74","2",29.5
+"Male","65-74","5 (most deprived)",0.5
+"Female","16-24","5 (most deprived)",9.9
+"Male","45-54","4",24.8
+"Female","25-34","3",1.5
+"Male","65-74","2",21.7
+"Male","65-74","4",27.8
+"Female","16-24","5 (most deprived)",1.2
+"Male","55-64","1 (least deprived)",0.2
+"Male","45-54","2",81.2
+"Male","65-74","2",43.7
+"Female","55-64","1 (least deprived)",21.1
+"Female","35-44","1 (least deprived)",21
+"Female","65-74","2",7.5
+"Male","45-54","1 (least deprived)",3.1
+"Female","35-44","2",2.2
+"Male","65-74","5 (most deprived)",1.5
+"Female","45-54","3",0.5
+"Male","55-64","3",31.1
+"Female","25-34","1 (least deprived)",6
+"Female","55-64","3",49.5
+"Male","25-34","5 (most deprived)",15.5
+"Female","75+","2",0
+"Female","55-64","5 (most deprived)",0
+"Male","35-44","1 (least deprived)",14.2
+"Male","16-24","1 (least deprived)",3.4
+"Female","25-34","4",0.1
+"Male","55-64","4",7.5
+"Female","35-44","4",6
+"Female","45-54","2",80.5
+"Female","25-34","5 (most deprived)",0
+"Female","55-64","2",1.5
+"Female","65-74","2",0
+"Female","55-64","5 (most deprived)",0
+"Female","25-34","4",2.9
+"Male","65-74","4",0
+"Female","75+","2",0
+"Female","25-34","1 (least deprived)",9
+"Male","55-64","2",0.8
+"Male","55-64","4",0.8
+"Female","45-54","1 (least deprived)",6.5
+"Female","45-54","2",2.3
+"Male","16-24","3",33
+"Female","65-74","3",0
+"Male","16-24","4",0.4
+"Male","55-64","2",0.3
+"Male","16-24","3",32.1
+"Male","55-64","5 (most deprived)",0
+"Male","45-54","4",4.5
+"Female","16-24","5 (most deprived)",0
+"Female","75+","4",0
+"Male","35-44","1 (least deprived)",0
+"Female","35-44","2",1.5
+"Female","75+","5 (most deprived)",0
+"Female","55-64","2",9
+"Male","45-54","4",0.7
+"Female","35-44","2",2.8
+"Female","55-64","3",14.6
+"Female","55-64","4",0
+"Female","65-74","4",0
+"Male","25-34","1 (least deprived)",38.6
+"Male","35-44","3",11.8
+"Male","65-74","2",0.8
+"Male","75+","3",0
+"Male","55-64","1 (least deprived)",36
+"Female","45-54","4",0
+"Female","45-54","5 (most deprived)",1
+"Male","55-64","1 (least deprived)",3
+"Male","45-54","2",7.7
+"Male","45-54","4",3.1
+"Female","45-54","1 (least deprived)",5.6
+"Female","25-34","2",0.1
+"Female","16-24","2",0
+"Male","45-54","4",52
+"Female","25-34","2",0.2
+"Female","65-74","2",0.1
+"Female","75+","4",13.7
+"Male","55-64","1 (least deprived)",0.4
+"Male","55-64","1 (least deprived)",56
+"Male","16-24","4",3.8
+"Female","35-44","1 (least deprived)",21
+"Male","55-64","2",24.7
+"Female","65-74","1 (least deprived)",7.1
+"Male","65-74","5 (most deprived)",14.5
+"Male","55-64","2",6.5
+"Female","45-54","3",1.8
+"Male","45-54","4",12.4
+"Male","55-64","2",86.2
+"Female","25-34","2",3.4
+"Female","65-74","4",0.7
+"Female","45-54","1 (least deprived)",6.5
+"Male","55-64","1 (least deprived)",51.5
+"Male","25-34","1 (least deprived)",42
+"Female","65-74","3",8.8
+"Male","65-74","5 (most deprived)",16.5
+"Female","55-64","1 (least deprived)",21.1
+"Female","45-54","5 (most deprived)",11
+"Female","65-74","3",0
+"Female","65-74","3",0.1
+"Female","75+","1 (least deprived)",2.2
+"Male","75+","4",0
+"Female","25-34","3",0.1
+"Male","25-34","2",3.9
+"Male","75+","4",0
+"Female","25-34","5 (most deprived)",0.5
+"Male","65-74","3",3.9
+"Female","65-74","2",0.1
+"Male","75+","2",0
+"Male","25-34","4",23.5
+"Female","25-34","1 (least deprived)",1.4
+"Male","75+","5 (most deprived)",0
+"Female","65-74","3",7.4
+"Male","75+","4",0
+"Male","65-74","3",0
+"Male","65-74","4",1.3
+"Female","45-54","2",20
+"Female","75+","1 (least deprived)",0
+"Female","55-64","3",0.2
+"Male","75+","1 (least deprived)",0
+"Female","25-34","1 (least deprived)",0
+"Female","55-64","4",11.2
+"Male","16-24","4",17.6
+"Female","55-64","1 (least deprived)",0.7
+"Female","35-44","3",13.6
+"Male","35-44","1 (least deprived)",18
+"Female","65-74","3",0
+"Female","45-54","2",2.4
+"Female","65-74","4",18
+"Female","35-44","3",13.3
+"Female","35-44","4",9.8
+"Female","75+","3",0
+"Male","25-34","1 (least deprived)",33.4
+"Male","16-24","1 (least deprived)",27.3
+"Male","16-24","2",14.2
+"Female","45-54","1 (least deprived)",15.8
+"Male","55-64","5 (most deprived)",4.5
+"Male","55-64","2",0
+"Female","55-64","1 (least deprived)",0
+"Male","35-44","1 (least deprived)",18
+"Female","55-64","1 (least deprived)",0.8
+"Male","25-34","2",21.8
+"Female","45-54","1 (least deprived)",22.6
+"Male","25-34","3",8.4
+"Male","45-54","3",0
+"Male","75+","2",0
+"Female","25-34","4",2.1
+"Female","55-64","3",14.8
+"Female","16-24","1 (least deprived)",0.7
+"Female","16-24","2",18.8
+"Male","75+","3",0
+"Male","35-44","1 (least deprived)",0
+"Male","65-74","1 (least deprived)",1.1
+"Male","55-64","4",4.5
+"Male","45-54","5 (most deprived)",25.5
+"Female","55-64","1 (least deprived)",0
+"Male","16-24","1 (least deprived)",0.7
+"Female","45-54","1 (least deprived)",10.5
+"Female","65-74","2",0.3
+"Female","25-34","1 (least deprived)",0
+"Female","55-64","4",1.7
+"Female","45-54","2",10.3
+"Female","65-74","1 (least deprived)",9.4
+"Female","45-54","5 (most deprived)",5.2
+"Male","55-64","2",18.5
+"Male","25-34","4",1.3
+"Female","75+","3",0
+"Female","45-54","3",1.5
+"Male","75+","3",3.5
+"Female","65-74","3",0
+"Male","16-24","1 (least deprived)",27.4
+"Female","25-34","2",1.1
+"Male","35-44","2",21.5
+"Male","16-24","4",0.2
+"Female","55-64","3",0
+"Female","55-64","1 (least deprived)",6.9
+"Female","65-74","3",18.1
+"Female","55-64","5 (most deprived)",9
+"Female","75+","4",0
+"Male","55-64","1 (least deprived)",0
+"Male","25-34","5 (most deprived)",1.1
+"Male","65-74","5 (most deprived)",32.2
+"Male","75+","4",14.5
+"Male","35-44","2",0
+"Male","55-64","3",18.3
+"Female","25-34","1 (least deprived)",1.3
+"Male","75+","1 (least deprived)",0.1
+"Female","65-74","1 (least deprived)",84.4
+"Female","16-24","4",0
+"Male","75+","5 (most deprived)",26.6
+"Female","75+","2",0
+"Female","45-54","3",0
+"Female","45-54","4",0
+"Female","16-24","5 (most deprived)",0
+"Female","16-24","5 (most deprived)",0
+"Female","35-44","3",3.8
+"Female","75+","3",0
+"Male","65-74","2",0
+"Male","35-44","3",8.5
+"Male","35-44","1 (least deprived)",13.1
+"Female","25-34","5 (most deprived)",0.1
+"Female","25-34","1 (least deprived)",0.1
+"Male","55-64","1 (least deprived)",10
+"Female","75+","4",1
+"Male","55-64","2",0.5
+"Male","35-44","1 (least deprived)",18
+"Male","35-44","5 (most deprived)",59
+"Male","35-44","2",17.6
+"Female","55-64","2",29.5
+"Female","55-64","4",0
+"Male","55-64","5 (most deprived)",0
+"Female","55-64","5 (most deprived)",0
+"Female","65-74","4",0.4
+"Male","65-74","3",0
+"Male","55-64","5 (most deprived)",3.8
+"Male","65-74","4",0
+"Male","55-64","4",1.9
+"Male","65-74","1 (least deprived)",11.2
+"Female","55-64","3",0.1
+"Male","75+","3",29.1
+"Male","16-24","3",3
+"Female","25-34","1 (least deprived)",9
+"Male","16-24","1 (least deprived)",26.1
+"Female","75+","4",0
+"Female","75+","2",0.1
+"Male","75+","3",9
+"Male","25-34","3",16.1
+"Female","75+","4",10.5
+"Male","65-74","1 (least deprived)",29.8
+"Female","65-74","4",0.4
+"Male","75+","1 (least deprived)",5.6
+"Female","65-74","2",0
+"Male","16-24","5 (most deprived)",8.6
+"Female","75+","2",4.5
+"Female","35-44","1 (least deprived)",2.3
+"Female","45-54","2",0
+"Female","75+","1 (least deprived)",3.1
+"Female","45-54","3",0.6
+"Male","35-44","5 (most deprived)",6.7
+"Male","35-44","1 (least deprived)",10.5
+"Female","65-74","3",4.5
+"Female","25-34","1 (least deprived)",0.1
+"Female","45-54","5 (most deprived)",40
+"Male","25-34","3",1.2
+"Male","16-24","4",6.1
+"Male","35-44","2",0.2
+"Female","45-54","4",9.3
+"Female","25-34","1 (least deprived)",0
+"Male","25-34","4",3.7
+"Female","25-34","5 (most deprived)",4.8
+"Female","25-34","3",0
+"Male","45-54","5 (most deprived)",3.8
+"Female","35-44","2",13.5
+"Female","25-34","2",1.2
+"Female","35-44","4",19.5
+"Female","45-54","4",5.1
+"Female","25-34","3",1.6
+"Male","45-54","2",0
+"Male","45-54","1 (least deprived)",7
+"Female","45-54","3",1.7
+"Female","65-74","3",0.1
+"Male","75+","3",0
+"Male","35-44","3",0.3
+"Male","65-74","4",13.2
+"Female","75+","1 (least deprived)",3.1
+"Female","45-54","4",9
+"Male","55-64","5 (most deprived)",0.1
+"Male","45-54","3",27
+"Male","55-64","2",14.1
+"Male","25-34","2",20.9
+"Female","25-34","2",1
+"Female","65-74","5 (most deprived)",0.1
+"Female","75+","1 (least deprived)",0
+"Male","25-34","1 (least deprived)",14.2
+"Female","25-34","1 (least deprived)",9.4
+"Female","45-54","5 (most deprived)",0.5
+"Female","55-64","1 (least deprived)",6.9
+"Male","55-64","5 (most deprived)",3.8
+"Female","45-54","2",0
+"Female","75+","2",0
+"Female","25-34","5 (most deprived)",0
+"Female","75+","1 (least deprived)",0
+"Female","45-54","5 (most deprived)",13.9
+"Female","25-34","5 (most deprived)",7.5
+"Female","45-54","2",20.6
+"Male","55-64","4",0
+"Male","16-24","3",23.7
+"Female","45-54","1 (least deprived)",22.5
+"Male","75+","2",0
+"Male","45-54","5 (most deprived)",25.5
+"Female","45-54","4",0
+"Female","55-64","5 (most deprived)",0
+"Female","75+","2",0.1
+"Female","65-74","1 (least deprived)",14.9
+"Male","65-74","4",3
+"Male","75+","4",12.1
+"Female","16-24","2",0.3
+"Female","45-54","5 (most deprived)",3
+"Male","55-64","2",3.4
+"Female","45-54","1 (least deprived)",9.3
+"Female","45-54","3",33.6
+"Female","65-74","4",4.9
+"Female","55-64","5 (most deprived)",0.1
+"Female","25-34","5 (most deprived)",10.6
+"Male","55-64","4",96
+"Male","25-34","5 (most deprived)",2.3
+"Female","16-24","5 (most deprived)",1.2
+"Male","35-44","5 (most deprived)",2.5
+"Male","45-54","3",7.4
+"Male","55-64","2",55.7
+"Male","25-34","2",25.5
+"Male","35-44","2",21
+"Male","45-54","4",0.7
+"Male","16-24","5 (most deprived)",1.7
+"Female","16-24","5 (most deprived)",0.1
+"Female","45-54","5 (most deprived)",0.6
+"Male","35-44","5 (most deprived)",0
+"Male","75+","5 (most deprived)",0
+"Male","45-54","1 (least deprived)",5.9
+"Male","35-44","5 (most deprived)",0.2
+"Male","45-54","5 (most deprived)",9.8
+"Female","65-74","1 (least deprived)",9.8
+"Male","65-74","2",0.8
+"Male","65-74","2",9
+"Male","55-64","2",1.5
+"Female","25-34","2",0
+"Female","35-44","1 (least deprived)",1.9
+"Male","35-44","5 (most deprived)",0
+"Female","25-34","3",23.8
+"Female","45-54","4",0.1
+"Female","16-24","3",1.5
+"Female","55-64","3",6.2
+"Female","65-74","5 (most deprived)",0.3
+"Female","45-54","2",9
+"Female","45-54","2",6.8
+"Female","16-24","2",16
+"Female","55-64","3",6
+"Female","16-24","2",0
+"Male","75+","4",0.8
+"Male","55-64","2",24.7
+"Female","55-64","1 (least deprived)",15.8
+"Male","25-34","1 (least deprived)",19.7
+"Female","75+","1 (least deprived)",34
+"Male","35-44","2",1.7
+"Female","55-64","1 (least deprived)",10.9
+"Male","25-34","3",18.2
+"Female","65-74","5 (most deprived)",9.2
+"Male","75+","1 (least deprived)",0.1
+"Male","45-54","1 (least deprived)",0
+"Male","75+","4",13.5
+"Male","25-34","1 (least deprived)",38.6
+"Male","55-64","4",17.6
+"Male","45-54","4",36
+"Female","35-44","2",12.7
+"Male","65-74","4",3.2
+"Male","75+","4",0.1
+"Female","65-74","3",0.1
+"Male","65-74","4",0.1
+"Male","25-34","5 (most deprived)",10.8
+"Female","55-64","5 (most deprived)",9.1
+"Female","25-34","1 (least deprived)",15.8
+"Female","25-34","5 (most deprived)",16.4
+"Female","65-74","2",0.4
+"Male","55-64","2",0
+"Female","55-64","2",9.2
+"Female","65-74","3",24
+"Female","55-64","5 (most deprived)",0.1
+"Female","45-54","2",0.1
+"Female","55-64","5 (most deprived)",10.3
+"Female","16-24","3",0
+"Male","55-64","3",31.1
+"Female","35-44","2",13.7
+"Male","55-64","2",18.5
+"Male","35-44","4",0
+"Male","45-54","2",8.4
+"Female","45-54","4",28
+"Female","45-54","2",2.4
+"Male","16-24","3",33
+"Male","65-74","1 (least deprived)",13.9
+"Male","35-44","1 (least deprived)",36
+"Female","45-54","2",0.1
+"Female","45-54","4",0
+"Female","25-34","5 (most deprived)",0
+"Male","16-24","4",2.3
+"Female","75+","1 (least deprived)",19.2
+"Female","25-34","2",3
+"Female","16-24","3",0
+"Female","35-44","3",0.5
+"Male","75+","1 (least deprived)",0
+"Female","65-74","4",0.4
+"Male","55-64","2",9.7
+"Male","65-74","5 (most deprived)",80.4
+"Female","16-24","1 (least deprived)",4.3
+"Female","35-44","2",13.7
+"Male","75+","1 (least deprived)",0
+"Female","35-44","2",9.4
+"Female","75+","4",0
+"Male","16-24","3",0
+"Female","35-44","2",1.7
+"Male","55-64","5 (most deprived)",0
+"Female","55-64","1 (least deprived)",6.9
+"Female","35-44","3",0
+"Male","25-34","1 (least deprived)",0.4
+"Female","55-64","5 (most deprived)",6
+"Female","75+","2",0.8
+"Female","55-64","2",9.2
+"Male","55-64","2",6.5
+"Female","55-64","1 (least deprived)",17.5
+"Female","65-74","3",1.3
+"Male","55-64","2",0.5
+"Female","45-54","1 (least deprived)",22.6
+"Male","16-24","5 (most deprived)",5
+"Female","45-54","4",0
+"Female","45-54","2",21.4
+"Female","45-54","5 (most deprived)",3.9
+"Female","16-24","4",8.9
+"Male","45-54","5 (most deprived)",0
+"Male","45-54","2",13.2
+"Male","55-64","3",0
+"Male","65-74","5 (most deprived)",12
+"Female","75+","2",12.2
+"Male","45-54","4",13.2
+"Male","55-64","2",86.2
+"Male","16-24","4",2.3
+"Female","55-64","5 (most deprived)",2.9
+"Female","55-64","3",2.6
+"Female","35-44","4",0.1
+"Female","55-64","3",2.2
+"Female","75+","3",0.1
+"Female","55-64","5 (most deprived)",0.1
+"Male","45-54","3",7.2
+"Male","35-44","4",1.1
+"Male","75+","3",29.1
+"Female","65-74","1 (least deprived)",0.6
+"Female","35-44","2",43.3
+"Male","25-34","1 (least deprived)",16.5
+"Male","35-44","3",3.8
+"Male","35-44","1 (least deprived)",0
+"Female","75+","4",0.2
+"Female","55-64","5 (most deprived)",0
+"Female","55-64","3",34
+"Female","45-54","2",10.6
+"Male","55-64","2",1.5
+"Male","45-54","2",4.8
+"Female","55-64","4",0
+"Female","45-54","3",10.8
+"Female","55-64","3",15
+"Male","55-64","3",1.8
+"Female","35-44","5 (most deprived)",5.2
+"Female","45-54","4",15.3
+"Male","35-44","3",15
+"Female","16-24","5 (most deprived)",0
+"Male","65-74","3",11
+"Female","55-64","3",0.1
+"Female","35-44","1 (least deprived)",9.3
+"Female","65-74","4",18
+"Female","65-74","4",0
+"Female","65-74","1 (least deprived)",0
+"Female","75+","2",0.1
+"Male","16-24","4",6
+"Female","35-44","4",19.5
+"Male","55-64","5 (most deprived)",12.5
+"Female","45-54","4",3.9
+"Female","75+","1 (least deprived)",3.1
+"Female","35-44","2",2.2
+"Female","16-24","3",8.3
+"Female","75+","2",8.2
+"Female","35-44","3",3.8
+"Female","75+","5 (most deprived)",0
+"Female","75+","5 (most deprived)",0
+"Male","45-54","4",3.3
+"Female","65-74","5 (most deprived)",0.8
+"Male","55-64","3",0
+"Male","45-54","3",61.4
+"Male","16-24","1 (least deprived)",4.3
+"Female","45-54","1 (least deprived)",7.5
+"Male","65-74","5 (most deprived)",12
+"Male","45-54","3",23.9
+"Female","35-44","5 (most deprived)",0.2
+"Male","55-64","5 (most deprived)",9
+"Female","65-74","2",0.1
+"Female","25-34","5 (most deprived)",1.9
+"Male","75+","3",28
+"Female","55-64","4",0.5
+"Female","16-24","5 (most deprived)",1
+"Female","45-54","5 (most deprived)",3.9
+"Female","25-34","1 (least deprived)",0.1
+"Male","45-54","4",15
+"Female","65-74","2",6
+"Female","25-34","2",0.2
+"Female","35-44","2",0
+"Female","45-54","3",0.2
+"Female","75+","4",0
+"Female","45-54","3",6.8
+"Female","35-44","3",0
+"Female","16-24","3",0
+"Female","35-44","3",2.2
+"Female","45-54","2",22.8
+"Male","55-64","3",10.3
+"Male","65-74","3",12
+"Female","25-34","5 (most deprived)",0.5
+"Male","75+","1 (least deprived)",3
+"Male","45-54","3",0.9
+"Male","35-44","2",0
+"Female","55-64","5 (most deprived)",1.2
+"Male","65-74","2",6.7
+"Male","55-64","1 (least deprived)",30.4
+"Male","75+","1 (least deprived)",0
+"Male","75+","4",0
+"Female","45-54","2",7.1
+"Male","55-64","2",18.5
+"Female","75+","2",0
+"Female","65-74","4",0
+"Male","16-24","3",3.7
+"Female","55-64","1 (least deprived)",6
+"Female","45-54","3",36.9
+"Male","16-24","3",0.8
+"Female","55-64","3",0
+"Male","75+","1 (least deprived)",28
+"Female","55-64","3",1.6
+"Female","45-54","4",9
+"Male","45-54","1 (least deprived)",1.9
+"Female","25-34","1 (least deprived)",0
+"Female","75+","5 (most deprived)",17.5
+"Female","55-64","2",0.1
+"Male","35-44","1 (least deprived)",0.7
+"Female","65-74","3",0
+"Female","45-54","2",3.2
+"Female","75+","2",2.3
+"Male","75+","1 (least deprived)",3
+"Male","45-54","5 (most deprived)",3.8
+"Female","75+","5 (most deprived)",0
+"Female","45-54","5 (most deprived)",40
+"Female","75+","4",6.5
+"Female","16-24","2",0.7
+"Female","45-54","2",51.1
+"Female","75+","1 (least deprived)",0
+"Male","25-34","3",1.1
+"Female","25-34","2",0
+"Female","75+","5 (most deprived)",0
+"Male","25-34","2",39.7
+"Male","25-34","5 (most deprived)",7.2
+"Male","25-34","5 (most deprived)",19.5
+"Female","55-64","5 (most deprived)",56
+"Female","25-34","3",2.3
+"Female","55-64","1 (least deprived)",17.5
+"Male","25-34","5 (most deprived)",0
+"Female","45-54","2",1.1
+"Female","45-54","5 (most deprived)",0
+"Male","65-74","2",0
+"Female","45-54","2",7.5
+"Male","55-64","1 (least deprived)",21
+"Male","65-74","2",14.5
+"Female","25-34","3",0
+"Male","65-74","4",0.1
+"Male","25-34","3",0.3
+"Female","35-44","3",13.6
+"Male","35-44","1 (least deprived)",10.6
+"Female","35-44","4",3.3
+"Female","35-44","5 (most deprived)",7.3
+"Female","65-74","3",0
+"Female","65-74","3",0.1
+"Male","55-64","5 (most deprived)",19.5
+"Female","45-54","5 (most deprived)",0
+"Female","65-74","4",7.6
+"Male","55-64","3",0.8
+"Female","75+","3",0.1
+"Female","16-24","2",16
+"Female","25-34","4",14.3
+"Female","55-64","5 (most deprived)",9
+"Male","45-54","2",15
