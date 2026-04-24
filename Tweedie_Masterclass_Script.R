@@ -291,6 +291,8 @@ library(DHARMa)
 simulateResiduals(m_null, plot = TRUE)
 simulateResiduals(m_main, plot = TRUE)
 
+#Note for students: With a large sample size, "DHARMa" tests are highly sensitive. Focus on overall visual checks rather than red warnings.
+
 # ==============================================================================
 # END OF STUDENT SCRIPT
 # For questions after the session, contact: x.xu.2@research.gla.ac.uk
