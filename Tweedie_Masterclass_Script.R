@@ -43,7 +43,7 @@ real_data <- shes_17i_archive_v1 %>%
   select(drating, Sex, age_group, SIMD16_RPa) %>%
   filter(complete.cases(.))
 
-# --- 1.3 Fit a quick model to firstly check real p (psi or ψ)) and phi (φ) -------------------------
+# --- 1.3 Fit a quick model to firstly check real p (psi or ψ) and phi (φ) -------------------------
 
 m_check <- glmmTMB(
   drating ~ Sex + age_group + SIMD16_RPa + (1 | Sex:age_group:SIMD16_RPa), # MAIHDA approach: level 1 -- Individual/observation, level 2 -- intersectional strata
