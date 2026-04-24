@@ -236,7 +236,7 @@ pcv    <- (v_null$var.random - v_main$var.random) / v_null$var.random
 cat("PCV (Null Model --> Full Model):   ", round(pcv * 100, 1), "%\n")
 
 # --- 5. Extract and inspect the variance power (p or ψ or psi) ---------------------------
-# p is estimated automatically by glmmTMB using "qlogis(psi - 1)".
+# p is estimated on logit-scale automatically by glmmTMB using "qlogis(psi - 1)".
 # Backtransform using "plogis(psi) + 1" to confirm it sits between 1 and 2.
 # Note: Different packages estimate p differently, check package manuals for backtransforming.
 
