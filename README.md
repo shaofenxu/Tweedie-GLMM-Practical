@@ -1,6 +1,6 @@
 # Tweedie GLMM Practical: MAIHDA Approach in R
 
-[![R](https://img.shields.io/badge/R-%E2%89%A5%_4.1-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
+[![R](https://img.shields.io/badge/R-%3E%3D%204.1-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
 [![glmmTMB](https://img.shields.io/badge/Package-glmmTMB-blue)](#)
 [![synthpop](https://img.shields.io/badge/Privacy-synthpop-success)](#)
 
